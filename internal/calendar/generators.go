@@ -120,17 +120,7 @@ func ordinaryWeekPass(calendar map[string]DayInfo) {
 	}
 }
 
-func WeekPass(filename string) {
-	raw, err := os.ReadFile(filename)
-	if err != nil {
-		panic(err)
-	}
-
-	calendar := map[string]DayInfo{}
-	if err := json.Unmarshal(raw, &calendar); err != nil {
-		panic(err)
-	}
-
+func specialSeasonPass(calendar map[string]DayInfo) {
 	// sort dates
 	dates := make([]string, 0, len(calendar))
 	for k := range calendar {
@@ -146,7 +136,6 @@ func WeekPass(filename string) {
 		easterWeek    int
 		prevSeason    Season = ""
 	)
-
 	for _, key := range dates {
 		day := calendar[key]
 
@@ -197,7 +186,29 @@ func WeekPass(filename string) {
 		prevSeason = day.Season
 	}
 
+}
+
+func lectionaryPass(calendar map[string]DayInfo) {
+	for d, day := range calendar {
+		day.Lectionary = day.lectionaryKey()
+		calendar[d] = day
+	}
+}
+
+func WeekPass(filename string) {
+	raw, err := os.ReadFile(filename)
+	if err != nil {
+		panic(err)
+	}
+
+	calendar := map[string]DayInfo{}
+	if err := json.Unmarshal(raw, &calendar); err != nil {
+		panic(err)
+	}
+
+	specialSeasonPass(calendar)
 	ordinaryWeekPass(calendar)
+	lectionaryPass(calendar)
 
 	out, err := json.MarshalIndent(calendar, "", "  ")
 	if err != nil {
