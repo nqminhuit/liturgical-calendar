@@ -32,5 +32,5 @@ jobs:
         output=$(go run cmd/main.go ${{ env.YEAR }})
         printf "$output\n" > $GITHUB_STEP_SUMMARY
         printf "\`\`\`json\n" >> $GITHUB_STEP_SUMMARY
-        cat "liturgical-calendar-${{ env.YEAR }}.json" >> $GITHUB_STEP_SUMMARY
+        cat "$output" >> $GITHUB_STEP_SUMMARY
         printf "\n\`\`\`\n" >> $GITHUB_STEP_SUMMARY

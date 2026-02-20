@@ -24,7 +24,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	filename := fmt.Sprintf("liturgical-calendar-%d.json", year)
+	filename := fmt.Sprintf("resources/liturgical-calendar-%d.json", year)
 	os.WriteFile(filename, b, 0644)
 	calendar.WeekPass(filename)
 }

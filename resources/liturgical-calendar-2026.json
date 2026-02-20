@@ -1,0 +1,2922 @@
+{
+  "2026-01-01": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_thu_II"
+  },
+  "2026-01-02": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_fri_II"
+  },
+  "2026-01-03": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_sat_II"
+  },
+  "2026-01-04": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_sun_A"
+  },
+  "2026-01-05": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_mon_II"
+  },
+  "2026-01-06": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_tue_II"
+  },
+  "2026-01-07": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_wed_II"
+  },
+  "2026-01-08": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_thu_II"
+  },
+  "2026-01-09": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_fri_II"
+  },
+  "2026-01-10": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 2,
+    "lectionary_key": "christmas_2_sat_II"
+  },
+  "2026-01-11": {
+    "season": "christmas",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 3,
+    "lectionary_key": "christmas_3_sun_A"
+  },
+  "2026-01-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 1,
+    "lectionary_key": "ordinary_1_mon_II"
+  },
+  "2026-01-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 1,
+    "lectionary_key": "ordinary_1_tue_II"
+  },
+  "2026-01-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 1,
+    "lectionary_key": "ordinary_1_wed_II"
+  },
+  "2026-01-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 1,
+    "lectionary_key": "ordinary_1_thu_II"
+  },
+  "2026-01-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 1,
+    "lectionary_key": "ordinary_1_fri_II"
+  },
+  "2026-01-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 1,
+    "lectionary_key": "ordinary_1_sat_II"
+  },
+  "2026-01-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_sun_A"
+  },
+  "2026-01-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_mon_II"
+  },
+  "2026-01-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_tue_II"
+  },
+  "2026-01-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_wed_II"
+  },
+  "2026-01-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_thu_II"
+  },
+  "2026-01-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_fri_II"
+  },
+  "2026-01-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 2,
+    "lectionary_key": "ordinary_2_sat_II"
+  },
+  "2026-01-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_sun_A"
+  },
+  "2026-01-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_mon_II"
+  },
+  "2026-01-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_tue_II"
+  },
+  "2026-01-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_wed_II"
+  },
+  "2026-01-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_thu_II"
+  },
+  "2026-01-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_fri_II"
+  },
+  "2026-01-31": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 3,
+    "lectionary_key": "ordinary_3_sat_II"
+  },
+  "2026-02-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_sun_A"
+  },
+  "2026-02-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_mon_II"
+  },
+  "2026-02-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_tue_II"
+  },
+  "2026-02-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_wed_II"
+  },
+  "2026-02-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_thu_II"
+  },
+  "2026-02-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_fri_II"
+  },
+  "2026-02-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 4,
+    "lectionary_key": "ordinary_4_sat_II"
+  },
+  "2026-02-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_sun_A"
+  },
+  "2026-02-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_mon_II"
+  },
+  "2026-02-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_tue_II"
+  },
+  "2026-02-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_wed_II"
+  },
+  "2026-02-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_thu_II"
+  },
+  "2026-02-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_fri_II"
+  },
+  "2026-02-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 5,
+    "lectionary_key": "ordinary_5_sat_II"
+  },
+  "2026-02-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 6,
+    "lectionary_key": "ordinary_6_sun_A"
+  },
+  "2026-02-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 6,
+    "lectionary_key": "ordinary_6_mon_II"
+  },
+  "2026-02-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 6,
+    "lectionary_key": "ordinary_6_tue_II"
+  },
+  "2026-02-18": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 0,
+    "lectionary_key": "lent_0_wed_II"
+  },
+  "2026-02-19": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 0,
+    "lectionary_key": "lent_0_thu_II"
+  },
+  "2026-02-20": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 0,
+    "lectionary_key": "lent_0_fri_II"
+  },
+  "2026-02-21": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 0,
+    "lectionary_key": "lent_0_sat_II"
+  },
+  "2026-02-22": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_sun_A"
+  },
+  "2026-02-23": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_mon_II"
+  },
+  "2026-02-24": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_tue_II"
+  },
+  "2026-02-25": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_wed_II"
+  },
+  "2026-02-26": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_thu_II"
+  },
+  "2026-02-27": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_fri_II"
+  },
+  "2026-02-28": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 1,
+    "lectionary_key": "lent_1_sat_II"
+  },
+  "2026-03-01": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_sun_A"
+  },
+  "2026-03-02": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_mon_II"
+  },
+  "2026-03-03": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_tue_II"
+  },
+  "2026-03-04": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_wed_II"
+  },
+  "2026-03-05": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_thu_II"
+  },
+  "2026-03-06": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_fri_II"
+  },
+  "2026-03-07": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 2,
+    "lectionary_key": "lent_2_sat_II"
+  },
+  "2026-03-08": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_sun_A"
+  },
+  "2026-03-09": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_mon_II"
+  },
+  "2026-03-10": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_tue_II"
+  },
+  "2026-03-11": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_wed_II"
+  },
+  "2026-03-12": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_thu_II"
+  },
+  "2026-03-13": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_fri_II"
+  },
+  "2026-03-14": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 3,
+    "lectionary_key": "lent_3_sat_II"
+  },
+  "2026-03-15": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_sun_A"
+  },
+  "2026-03-16": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_mon_II"
+  },
+  "2026-03-17": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_tue_II"
+  },
+  "2026-03-18": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_wed_II"
+  },
+  "2026-03-19": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_thu_II"
+  },
+  "2026-03-20": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_fri_II"
+  },
+  "2026-03-21": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 4,
+    "lectionary_key": "lent_4_sat_II"
+  },
+  "2026-03-22": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_sun_A"
+  },
+  "2026-03-23": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_mon_II"
+  },
+  "2026-03-24": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_tue_II"
+  },
+  "2026-03-25": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_wed_II"
+  },
+  "2026-03-26": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_thu_II"
+  },
+  "2026-03-27": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_fri_II"
+  },
+  "2026-03-28": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 5,
+    "lectionary_key": "lent_5_sat_II"
+  },
+  "2026-03-29": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_sun_A"
+  },
+  "2026-03-30": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_mon_II"
+  },
+  "2026-03-31": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_tue_II"
+  },
+  "2026-04-01": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_wed_II"
+  },
+  "2026-04-02": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_thu_II"
+  },
+  "2026-04-03": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_fri_II"
+  },
+  "2026-04-04": {
+    "season": "lent",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 6,
+    "lectionary_key": "lent_6_sat_II"
+  },
+  "2026-04-05": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_sun_A"
+  },
+  "2026-04-06": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_mon_II"
+  },
+  "2026-04-07": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_tue_II"
+  },
+  "2026-04-08": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_wed_II"
+  },
+  "2026-04-09": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_thu_II"
+  },
+  "2026-04-10": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_fri_II"
+  },
+  "2026-04-11": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 1,
+    "lectionary_key": "easter_1_sat_II"
+  },
+  "2026-04-12": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_sun_A"
+  },
+  "2026-04-13": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_mon_II"
+  },
+  "2026-04-14": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_tue_II"
+  },
+  "2026-04-15": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_wed_II"
+  },
+  "2026-04-16": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_thu_II"
+  },
+  "2026-04-17": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_fri_II"
+  },
+  "2026-04-18": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 2,
+    "lectionary_key": "easter_2_sat_II"
+  },
+  "2026-04-19": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_sun_A"
+  },
+  "2026-04-20": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_mon_II"
+  },
+  "2026-04-21": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_tue_II"
+  },
+  "2026-04-22": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_wed_II"
+  },
+  "2026-04-23": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_thu_II"
+  },
+  "2026-04-24": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_fri_II"
+  },
+  "2026-04-25": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 3,
+    "lectionary_key": "easter_3_sat_II"
+  },
+  "2026-04-26": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_sun_A"
+  },
+  "2026-04-27": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_mon_II"
+  },
+  "2026-04-28": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_tue_II"
+  },
+  "2026-04-29": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_wed_II"
+  },
+  "2026-04-30": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_thu_II"
+  },
+  "2026-05-01": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_fri_II"
+  },
+  "2026-05-02": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 4,
+    "lectionary_key": "easter_4_sat_II"
+  },
+  "2026-05-03": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_sun_A"
+  },
+  "2026-05-04": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_mon_II"
+  },
+  "2026-05-05": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_tue_II"
+  },
+  "2026-05-06": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_wed_II"
+  },
+  "2026-05-07": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_thu_II"
+  },
+  "2026-05-08": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_fri_II"
+  },
+  "2026-05-09": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 5,
+    "lectionary_key": "easter_5_sat_II"
+  },
+  "2026-05-10": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_sun_A"
+  },
+  "2026-05-11": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_mon_II"
+  },
+  "2026-05-12": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_tue_II"
+  },
+  "2026-05-13": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_wed_II"
+  },
+  "2026-05-14": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_thu_II"
+  },
+  "2026-05-15": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_fri_II"
+  },
+  "2026-05-16": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 6,
+    "lectionary_key": "easter_6_sat_II"
+  },
+  "2026-05-17": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_sun_A"
+  },
+  "2026-05-18": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_mon_II"
+  },
+  "2026-05-19": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_tue_II"
+  },
+  "2026-05-20": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_wed_II"
+  },
+  "2026-05-21": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_thu_II"
+  },
+  "2026-05-22": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_fri_II"
+  },
+  "2026-05-23": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 7,
+    "lectionary_key": "easter_7_sat_II"
+  },
+  "2026-05-24": {
+    "season": "easter",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 8,
+    "lectionary_key": "easter_8_sun_A"
+  },
+  "2026-05-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 8,
+    "lectionary_key": "ordinary_8_mon_II"
+  },
+  "2026-05-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 8,
+    "lectionary_key": "ordinary_8_tue_II"
+  },
+  "2026-05-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 8,
+    "lectionary_key": "ordinary_8_wed_II"
+  },
+  "2026-05-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 8,
+    "lectionary_key": "ordinary_8_thu_II"
+  },
+  "2026-05-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 8,
+    "lectionary_key": "ordinary_8_fri_II"
+  },
+  "2026-05-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 8,
+    "lectionary_key": "ordinary_8_sat_II"
+  },
+  "2026-05-31": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_sun_A"
+  },
+  "2026-06-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_mon_II"
+  },
+  "2026-06-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_tue_II"
+  },
+  "2026-06-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_wed_II"
+  },
+  "2026-06-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_thu_II"
+  },
+  "2026-06-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_fri_II"
+  },
+  "2026-06-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 9,
+    "lectionary_key": "ordinary_9_sat_II"
+  },
+  "2026-06-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_sun_A"
+  },
+  "2026-06-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_mon_II"
+  },
+  "2026-06-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_tue_II"
+  },
+  "2026-06-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_wed_II"
+  },
+  "2026-06-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_thu_II"
+  },
+  "2026-06-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_fri_II"
+  },
+  "2026-06-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 10,
+    "lectionary_key": "ordinary_10_sat_II"
+  },
+  "2026-06-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_sun_A"
+  },
+  "2026-06-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_mon_II"
+  },
+  "2026-06-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_tue_II"
+  },
+  "2026-06-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_wed_II"
+  },
+  "2026-06-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_thu_II"
+  },
+  "2026-06-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_fri_II"
+  },
+  "2026-06-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 11,
+    "lectionary_key": "ordinary_11_sat_II"
+  },
+  "2026-06-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_sun_A"
+  },
+  "2026-06-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_mon_II"
+  },
+  "2026-06-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_tue_II"
+  },
+  "2026-06-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_wed_II"
+  },
+  "2026-06-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_thu_II"
+  },
+  "2026-06-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_fri_II"
+  },
+  "2026-06-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 12,
+    "lectionary_key": "ordinary_12_sat_II"
+  },
+  "2026-06-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_sun_A"
+  },
+  "2026-06-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_mon_II"
+  },
+  "2026-06-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_tue_II"
+  },
+  "2026-07-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_wed_II"
+  },
+  "2026-07-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_thu_II"
+  },
+  "2026-07-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_fri_II"
+  },
+  "2026-07-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 13,
+    "lectionary_key": "ordinary_13_sat_II"
+  },
+  "2026-07-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_sun_A"
+  },
+  "2026-07-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_mon_II"
+  },
+  "2026-07-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_tue_II"
+  },
+  "2026-07-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_wed_II"
+  },
+  "2026-07-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_thu_II"
+  },
+  "2026-07-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_fri_II"
+  },
+  "2026-07-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 14,
+    "lectionary_key": "ordinary_14_sat_II"
+  },
+  "2026-07-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_sun_A"
+  },
+  "2026-07-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_mon_II"
+  },
+  "2026-07-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_tue_II"
+  },
+  "2026-07-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_wed_II"
+  },
+  "2026-07-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_thu_II"
+  },
+  "2026-07-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_fri_II"
+  },
+  "2026-07-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 15,
+    "lectionary_key": "ordinary_15_sat_II"
+  },
+  "2026-07-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_sun_A"
+  },
+  "2026-07-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_mon_II"
+  },
+  "2026-07-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_tue_II"
+  },
+  "2026-07-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_wed_II"
+  },
+  "2026-07-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_thu_II"
+  },
+  "2026-07-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_fri_II"
+  },
+  "2026-07-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 16,
+    "lectionary_key": "ordinary_16_sat_II"
+  },
+  "2026-07-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_sun_A"
+  },
+  "2026-07-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_mon_II"
+  },
+  "2026-07-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_tue_II"
+  },
+  "2026-07-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_wed_II"
+  },
+  "2026-07-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_thu_II"
+  },
+  "2026-07-31": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_fri_II"
+  },
+  "2026-08-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 17,
+    "lectionary_key": "ordinary_17_sat_II"
+  },
+  "2026-08-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_sun_A"
+  },
+  "2026-08-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_mon_II"
+  },
+  "2026-08-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_tue_II"
+  },
+  "2026-08-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_wed_II"
+  },
+  "2026-08-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_thu_II"
+  },
+  "2026-08-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_fri_II"
+  },
+  "2026-08-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 18,
+    "lectionary_key": "ordinary_18_sat_II"
+  },
+  "2026-08-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_sun_A"
+  },
+  "2026-08-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_mon_II"
+  },
+  "2026-08-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_tue_II"
+  },
+  "2026-08-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_wed_II"
+  },
+  "2026-08-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_thu_II"
+  },
+  "2026-08-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_fri_II"
+  },
+  "2026-08-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 19,
+    "lectionary_key": "ordinary_19_sat_II"
+  },
+  "2026-08-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_sun_A"
+  },
+  "2026-08-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_mon_II"
+  },
+  "2026-08-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_tue_II"
+  },
+  "2026-08-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_wed_II"
+  },
+  "2026-08-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_thu_II"
+  },
+  "2026-08-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_fri_II"
+  },
+  "2026-08-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 20,
+    "lectionary_key": "ordinary_20_sat_II"
+  },
+  "2026-08-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_sun_A"
+  },
+  "2026-08-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_mon_II"
+  },
+  "2026-08-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_tue_II"
+  },
+  "2026-08-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_wed_II"
+  },
+  "2026-08-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_thu_II"
+  },
+  "2026-08-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_fri_II"
+  },
+  "2026-08-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 21,
+    "lectionary_key": "ordinary_21_sat_II"
+  },
+  "2026-08-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_sun_A"
+  },
+  "2026-08-31": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_mon_II"
+  },
+  "2026-09-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_tue_II"
+  },
+  "2026-09-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_wed_II"
+  },
+  "2026-09-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_thu_II"
+  },
+  "2026-09-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_fri_II"
+  },
+  "2026-09-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 22,
+    "lectionary_key": "ordinary_22_sat_II"
+  },
+  "2026-09-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_sun_A"
+  },
+  "2026-09-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_mon_II"
+  },
+  "2026-09-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_tue_II"
+  },
+  "2026-09-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_wed_II"
+  },
+  "2026-09-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_thu_II"
+  },
+  "2026-09-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_fri_II"
+  },
+  "2026-09-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 23,
+    "lectionary_key": "ordinary_23_sat_II"
+  },
+  "2026-09-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_sun_A"
+  },
+  "2026-09-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_mon_II"
+  },
+  "2026-09-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_tue_II"
+  },
+  "2026-09-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_wed_II"
+  },
+  "2026-09-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_thu_II"
+  },
+  "2026-09-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_fri_II"
+  },
+  "2026-09-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 24,
+    "lectionary_key": "ordinary_24_sat_II"
+  },
+  "2026-09-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_sun_A"
+  },
+  "2026-09-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_mon_II"
+  },
+  "2026-09-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_tue_II"
+  },
+  "2026-09-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_wed_II"
+  },
+  "2026-09-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_thu_II"
+  },
+  "2026-09-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_fri_II"
+  },
+  "2026-09-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 25,
+    "lectionary_key": "ordinary_25_sat_II"
+  },
+  "2026-09-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_sun_A"
+  },
+  "2026-09-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_mon_II"
+  },
+  "2026-09-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_tue_II"
+  },
+  "2026-09-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_wed_II"
+  },
+  "2026-10-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_thu_II"
+  },
+  "2026-10-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_fri_II"
+  },
+  "2026-10-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 26,
+    "lectionary_key": "ordinary_26_sat_II"
+  },
+  "2026-10-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_sun_A"
+  },
+  "2026-10-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_mon_II"
+  },
+  "2026-10-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_tue_II"
+  },
+  "2026-10-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_wed_II"
+  },
+  "2026-10-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_thu_II"
+  },
+  "2026-10-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_fri_II"
+  },
+  "2026-10-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 27,
+    "lectionary_key": "ordinary_27_sat_II"
+  },
+  "2026-10-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_sun_A"
+  },
+  "2026-10-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_mon_II"
+  },
+  "2026-10-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_tue_II"
+  },
+  "2026-10-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_wed_II"
+  },
+  "2026-10-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_thu_II"
+  },
+  "2026-10-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_fri_II"
+  },
+  "2026-10-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 28,
+    "lectionary_key": "ordinary_28_sat_II"
+  },
+  "2026-10-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_sun_A"
+  },
+  "2026-10-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_mon_II"
+  },
+  "2026-10-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_tue_II"
+  },
+  "2026-10-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_wed_II"
+  },
+  "2026-10-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_thu_II"
+  },
+  "2026-10-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_fri_II"
+  },
+  "2026-10-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 29,
+    "lectionary_key": "ordinary_29_sat_II"
+  },
+  "2026-10-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_sun_A"
+  },
+  "2026-10-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_mon_II"
+  },
+  "2026-10-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_tue_II"
+  },
+  "2026-10-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_wed_II"
+  },
+  "2026-10-29": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_thu_II"
+  },
+  "2026-10-30": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_fri_II"
+  },
+  "2026-10-31": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 30,
+    "lectionary_key": "ordinary_30_sat_II"
+  },
+  "2026-11-01": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_sun_A"
+  },
+  "2026-11-02": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_mon_II"
+  },
+  "2026-11-03": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_tue_II"
+  },
+  "2026-11-04": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_wed_II"
+  },
+  "2026-11-05": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_thu_II"
+  },
+  "2026-11-06": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_fri_II"
+  },
+  "2026-11-07": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 31,
+    "lectionary_key": "ordinary_31_sat_II"
+  },
+  "2026-11-08": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_sun_A"
+  },
+  "2026-11-09": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_mon_II"
+  },
+  "2026-11-10": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_tue_II"
+  },
+  "2026-11-11": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_wed_II"
+  },
+  "2026-11-12": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_thu_II"
+  },
+  "2026-11-13": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_fri_II"
+  },
+  "2026-11-14": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 32,
+    "lectionary_key": "ordinary_32_sat_II"
+  },
+  "2026-11-15": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_sun_A"
+  },
+  "2026-11-16": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_mon_II"
+  },
+  "2026-11-17": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_tue_II"
+  },
+  "2026-11-18": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_wed_II"
+  },
+  "2026-11-19": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_thu_II"
+  },
+  "2026-11-20": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_fri_II"
+  },
+  "2026-11-21": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 33,
+    "lectionary_key": "ordinary_33_sat_II"
+  },
+  "2026-11-22": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_sun_A"
+  },
+  "2026-11-23": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_mon_II"
+  },
+  "2026-11-24": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_tue_II"
+  },
+  "2026-11-25": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_wed_II"
+  },
+  "2026-11-26": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_thu_II"
+  },
+  "2026-11-27": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_fri_II"
+  },
+  "2026-11-28": {
+    "season": "ordinary",
+    "sunday_cycle": "A",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 34,
+    "lectionary_key": "ordinary_34_sat_II"
+  },
+  "2026-11-29": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_sun_B"
+  },
+  "2026-11-30": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_mon_II"
+  },
+  "2026-12-01": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_tue_II"
+  },
+  "2026-12-02": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_wed_II"
+  },
+  "2026-12-03": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_thu_II"
+  },
+  "2026-12-04": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_fri_II"
+  },
+  "2026-12-05": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 1,
+    "lectionary_key": "advent_1_sat_II"
+  },
+  "2026-12-06": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_sun_B"
+  },
+  "2026-12-07": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_mon_II"
+  },
+  "2026-12-08": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_tue_II"
+  },
+  "2026-12-09": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_wed_II"
+  },
+  "2026-12-10": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_thu_II"
+  },
+  "2026-12-11": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_fri_II"
+  },
+  "2026-12-12": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 2,
+    "lectionary_key": "advent_2_sat_II"
+  },
+  "2026-12-13": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_sun_B"
+  },
+  "2026-12-14": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_mon_II"
+  },
+  "2026-12-15": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_tue_II"
+  },
+  "2026-12-16": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_wed_II"
+  },
+  "2026-12-17": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_thu_II"
+  },
+  "2026-12-18": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_fri_II"
+  },
+  "2026-12-19": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 3,
+    "lectionary_key": "advent_3_sat_II"
+  },
+  "2026-12-20": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 4,
+    "lectionary_key": "advent_4_sun_B"
+  },
+  "2026-12-21": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 4,
+    "lectionary_key": "advent_4_mon_II"
+  },
+  "2026-12-22": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 4,
+    "lectionary_key": "advent_4_tue_II"
+  },
+  "2026-12-23": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 4,
+    "lectionary_key": "advent_4_wed_II"
+  },
+  "2026-12-24": {
+    "season": "advent",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 4,
+    "lectionary_key": "advent_4_thu_II"
+  },
+  "2026-12-25": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "fri",
+    "week_of_season": 0,
+    "lectionary_key": "christmas_0_fri_II"
+  },
+  "2026-12-26": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sat",
+    "week_of_season": 0,
+    "lectionary_key": "christmas_0_sat_II"
+  },
+  "2026-12-27": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "sun",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_sun_B"
+  },
+  "2026-12-28": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "mon",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_mon_II"
+  },
+  "2026-12-29": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "tue",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_tue_II"
+  },
+  "2026-12-30": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "wed",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_wed_II"
+  },
+  "2026-12-31": {
+    "season": "christmas",
+    "sunday_cycle": "B",
+    "weekday_cycle": "II",
+    "weekday": "thu",
+    "week_of_season": 1,
+    "lectionary_key": "christmas_1_thu_II"
+  }
+}

@@ -215,6 +215,8 @@ func WeekPass(filename string) {
 		panic(err)
 	}
 
-	os.WriteFile(filename, out, 0644)
-	fmt.Println("Generated:", filename)
+	if err := os.WriteFile(filename, out, 0644); err != nil {
+		panic(err)
+	}
+	fmt.Print(filename)
 }
