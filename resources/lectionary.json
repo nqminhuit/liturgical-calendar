@@ -1,34 +1,25 @@
 {
   "meta": {
-    "version": 1,
-    "description": "Vietnamese lectionary base keys"
+    "version": 2026,
+    "description": "Vietnamese lectionary"
   },
-
   "readings": {
-    /* ================= ADVENT ================= */
     "advent_1_sun_A": {},
     "advent_1_sun_B": {},
     "advent_1_sun_C": {},
-
     "advent_1_mon_I": {},
     "advent_1_mon_II": {},
     "advent_1_tue_I": {},
     "advent_1_tue_II": {},
-
     "advent_2_sun_A": {},
     "advent_2_sun_B": {},
     "advent_2_sun_C": {},
-
     "advent_3_sun_A": {},
     "advent_3_sun_B": {},
     "advent_3_sun_C": {},
-
     "advent_4_sun_A": {},
     "advent_4_sun_B": {},
     "advent_4_sun_C": {},
-
-
-    /* ================= CHRISTMAS ================= */
 
     "christmas_day": {},
     "holy_family_A": {},
@@ -41,9 +32,6 @@
     "baptism_A": {},
     "baptism_B": {},
     "baptism_C": {},
-
-
-    /* ================= LENT ================= */
 
     "lent_0_wed_II": {
       "first": "Ge 2,12-18",
@@ -93,8 +81,6 @@
     "lent_1_thu_II": {},
     "lent_1_fri_II": {},
     "lent_1_sat_II": {},
-
-
     "lent_2_sun_A": {},
     "lent_2_sun_B": {},
     "lent_2_sun_C": {},
@@ -104,15 +90,12 @@
     "lent_2_thu_II": {},
     "lent_2_fri_II": {},
     "lent_2_sat_II": {},
-
     "lent_3_sun_A": {},
     "lent_3_sun_B": {},
     "lent_3_sun_C": {},
-
     "lent_4_sun_A": {},
     "lent_4_sun_B": {},
     "lent_4_sun_C": {},
-
     "lent_5_sun_A": {},
     "lent_5_sun_B": {},
     "lent_5_sun_C": {},
@@ -121,49 +104,34 @@
     "palm_sunday_B": {},
     "palm_sunday_C": {},
 
-
-    /* ================= EASTER ================= */
-
     "easter_sunday_A": {},
     "easter_sunday_B": {},
     "easter_sunday_C": {},
-
     "easter_2_sun_A": {},
     "easter_2_sun_B": {},
     "easter_2_sun_C": {},
-
     "easter_3_sun_A": {},
     "easter_3_sun_B": {},
     "easter_3_sun_C": {},
-
     "ascension_A": {},
     "ascension_B": {},
     "ascension_C": {},
-
     "pentecost_A": {},
     "pentecost_B": {},
     "pentecost_C": {},
 
-
-    /* ================= ORDINARY TIME ================= */
-
     "ordinary_1_sun_A": {},
     "ordinary_1_sun_B": {},
     "ordinary_1_sun_C": {},
-
     "ordinary_1_mon_I": {},
     "ordinary_1_mon_II": {},
     "ordinary_1_tue_I": {},
     "ordinary_1_tue_II": {},
-
     "ordinary_2_sun_A": {},
     "ordinary_2_sun_B": {},
     "ordinary_2_sun_C": {}
-
   },
-
   "feasts": {
-
     "annunciation": {},
     "st_joseph": {},
     "chair_of_peter": {},
@@ -171,6 +139,5 @@
     "christ_king_A": {},
     "christ_king_B": {},
     "christ_king_C": {}
-
   }
 }
