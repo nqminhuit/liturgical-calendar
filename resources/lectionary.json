@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "version": 1,
+    "description": "Vietnamese lectionary base keys"
+  },
+
+  "readings": {
+    /* ================= ADVENT ================= */
+    "advent_1_sun_A": {},
+    "advent_1_sun_B": {},
+    "advent_1_sun_C": {},
+
+    "advent_1_mon_I": {},
+    "advent_1_mon_II": {},
+    "advent_1_tue_I": {},
+    "advent_1_tue_II": {},
+
+    "advent_2_sun_A": {},
+    "advent_2_sun_B": {},
+    "advent_2_sun_C": {},
+
+    "advent_3_sun_A": {},
+    "advent_3_sun_B": {},
+    "advent_3_sun_C": {},
+
+    "advent_4_sun_A": {},
+    "advent_4_sun_B": {},
+    "advent_4_sun_C": {},
+
+
+    /* ================= CHRISTMAS ================= */
+
+    "christmas_day": {},
+    "holy_family_A": {},
+    "holy_family_B": {},
+    "holy_family_C": {},
+    "mary_mother_of_god": {},
+    "epiphany_A": {},
+    "epiphany_B": {},
+    "epiphany_C": {},
+    "baptism_A": {},
+    "baptism_B": {},
+    "baptism_C": {},
+
+
+    /* ================= LENT ================= */
+
+    "lent_0_wed_II": {
+      "first": "Ge 2,12-18",
+      "firstQuote": "Đừng xé áo, nhưng hãy xé lòng.",
+      "psalm": "Tv 50,3-4.5-6a.12-13.14 và 17",
+      "second": "2Cr 5,20-6,2",
+      "secondQuote": "Anh em hãy làm hoà với Thiên Chúa. Đây là thời Thiên Chúa thi ân.",
+      "gospel": "Mt 6,1-6.16-18",
+      "gospelQuote": "Và Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh."
+    },
+    "lent_0_thu_II": {
+      "first": "Ðnl 30, 15-20",
+      "firstQuote": "Hôm nay tôi đề nghị với anh em về sự chúc lành và sự chúc dữ",
+      "psalm": "Tv 1, 1-2. 3. 4 và 6",
+      "gospel": "Lc 9, 22-25",
+      "gospelQuote": "Ai muốn theo Ta, hãy bỏ mình, vác thập giá mình hằng ngày mà theo Ta."
+    },
+    "lent_0_fri_II": {
+      "first": "Is 58, 1-9a",
+      "firstQuote": "Có phải đó là việc ăn chay mà Ta mong muốn không?",
+      "psalm": "Tv 50, 3-4. 5-6a. 18-19",
+      "gospel": "Mt 9, 14-15",
+      "gospelQuote": "Khi tân lang ra đi, bấy giờ họ mới ăn chay."
+    },
+    "lent_0_sat_II": {
+      "first": "Is 58, 9b-14",
+      "firstQuote": "Nếu ngươi nhường miếng ăn cho kẻ đói, thì ánh sáng ngươi sẽ chiếu toả trong bóng tối.",
+      "psalm": "Tv 85, 1-2. 3-4. 5-6",
+      "gospel": "Lc 5, 27-32",
+      "gospelQuote": "Tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi sám hối ăn năn."
+    },
+
+    "lent_1_sun_A": {
+      "first": "St 2, 7-9. 3, 1-7",
+      "firstQuote": "Thiên Chúa dựng nên hai ông bà nguyên tổ. Ông bà phạm tội.",
+      "psalm": "Tv 50, 3-4. 5-6a. 12-13. 14 và 17",
+      "second": "Rm 5, 12-19",
+      "secondQuote": "Ở đâu tội lỗi đã lan tràn, ở đó ân sủng càng chứa chan gấp bội.",
+      "gospel": "Mt 4, 1-11",
+      "gospelQuote": "Người ta sống không chỉ nhờ cơm bánh, nhưng còn nhờ mọi lời miệng Thiên Chúa phán ra."
+    },
+    "lent_1_sun_B": {},
+    "lent_1_sun_C": {},
+    "lent_1_mon_II": {},
+    "lent_1_tue_II": {},
+    "lent_1_wed_II": {},
+    "lent_1_thu_II": {},
+    "lent_1_fri_II": {},
+    "lent_1_sat_II": {},
+
+
+    "lent_2_sun_A": {},
+    "lent_2_sun_B": {},
+    "lent_2_sun_C": {},
+    "lent_2_mon_II": {},
+    "lent_2_tue_II": {},
+    "lent_2_wed_II": {},
+    "lent_2_thu_II": {},
+    "lent_2_fri_II": {},
+    "lent_2_sat_II": {},
+
+    "lent_3_sun_A": {},
+    "lent_3_sun_B": {},
+    "lent_3_sun_C": {},
+
+    "lent_4_sun_A": {},
+    "lent_4_sun_B": {},
+    "lent_4_sun_C": {},
+
+    "lent_5_sun_A": {},
+    "lent_5_sun_B": {},
+    "lent_5_sun_C": {},
+
+    "palm_sunday_A": {},
+    "palm_sunday_B": {},
+    "palm_sunday_C": {},
+
+
+    /* ================= EASTER ================= */
+
+    "easter_sunday_A": {},
+    "easter_sunday_B": {},
+    "easter_sunday_C": {},
+
+    "easter_2_sun_A": {},
+    "easter_2_sun_B": {},
+    "easter_2_sun_C": {},
+
+    "easter_3_sun_A": {},
+    "easter_3_sun_B": {},
+    "easter_3_sun_C": {},
+
+    "ascension_A": {},
+    "ascension_B": {},
+    "ascension_C": {},
+
+    "pentecost_A": {},
+    "pentecost_B": {},
+    "pentecost_C": {},
+
+
+    /* ================= ORDINARY TIME ================= */
+
+    "ordinary_1_sun_A": {},
+    "ordinary_1_sun_B": {},
+    "ordinary_1_sun_C": {},
+
+    "ordinary_1_mon_I": {},
+    "ordinary_1_mon_II": {},
+    "ordinary_1_tue_I": {},
+    "ordinary_1_tue_II": {},
+
+    "ordinary_2_sun_A": {},
+    "ordinary_2_sun_B": {},
+    "ordinary_2_sun_C": {}
+
+  },
+
+  "feasts": {
+
+    "annunciation": {},
+    "st_joseph": {},
+    "chair_of_peter": {},
+    "sacred_heart": {},
+    "christ_king_A": {},
+    "christ_king_B": {},
+    "christ_king_C": {}
+
+  }
+}
