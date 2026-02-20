@@ -1,0 +1,181 @@
+package calendar
+
+import (
+	"testing"
+	"time"
+)
+
+func TestEaster(t *testing.T) {
+	tests := []struct {
+		year     int
+		expected time.Time
+	}{
+		{2000, time.Date(2000, 4, 23, 0, 0, 0, 0, loc)},
+		{2001, time.Date(2001, 4, 15, 0, 0, 0, 0, loc)},
+		{2002, time.Date(2002, 3, 31, 0, 0, 0, 0, loc)},
+		{2003, time.Date(2003, 4, 20, 0, 0, 0, 0, loc)},
+		{2004, time.Date(2004, 4, 11, 0, 0, 0, 0, loc)},
+		{2005, time.Date(2005, 3, 27, 0, 0, 0, 0, loc)},
+		{2006, time.Date(2006, 4, 16, 0, 0, 0, 0, loc)},
+		{2007, time.Date(2007, 4, 8, 0, 0, 0, 0, loc)},
+		{2008, time.Date(2008, 3, 23, 0, 0, 0, 0, loc)},
+		{2009, time.Date(2009, 4, 12, 0, 0, 0, 0, loc)},
+		{2010, time.Date(2010, 4, 4, 0, 0, 0, 0, loc)},
+		{2011, time.Date(2011, 4, 24, 0, 0, 0, 0, loc)},
+		{2012, time.Date(2012, 4, 8, 0, 0, 0, 0, loc)},
+		{2013, time.Date(2013, 3, 31, 0, 0, 0, 0, loc)},
+		{2014, time.Date(2014, 4, 20, 0, 0, 0, 0, loc)},
+		{2015, time.Date(2015, 4, 5, 0, 0, 0, 0, loc)},
+		{2016, time.Date(2016, 3, 27, 0, 0, 0, 0, loc)},
+		{2017, time.Date(2017, 4, 16, 0, 0, 0, 0, loc)},
+		{2018, time.Date(2018, 4, 1, 0, 0, 0, 0, loc)},
+		{2019, time.Date(2019, 4, 21, 0, 0, 0, 0, loc)},
+		{2020, time.Date(2020, 4, 12, 0, 0, 0, 0, loc)},
+		{2021, time.Date(2021, 4, 4, 0, 0, 0, 0, loc)},
+		{2022, time.Date(2022, 4, 17, 0, 0, 0, 0, loc)},
+		{2023, time.Date(2023, 4, 9, 0, 0, 0, 0, loc)},
+		{2024, time.Date(2024, 3, 31, 0, 0, 0, 0, loc)},
+		{2025, time.Date(2025, 4, 20, 0, 0, 0, 0, loc)},
+	}
+
+	for _, test := range tests {
+		result := Easter(test.year)
+		if !result.Equal(test.expected) {
+			t.Errorf("Easter(%d) = %v, want %v", test.year, result, test.expected)
+		}
+	}
+}
+
+func TestStartOfAdvent(t *testing.T) {
+	tests := []struct {
+		year     int
+		expected time.Time
+	}{
+		{2023, time.Date(2023, 12, 3, 0, 0, 0, 0, loc)},  // 2023-11-27 is Monday, so Dec 3 Sunday
+		{2024, time.Date(2024, 12, 1, 0, 0, 0, 0, loc)},  // 2024-11-27 is Wednesday, offset 4, Dec 1
+		{2025, time.Date(2025, 11, 30, 0, 0, 0, 0, loc)}, // 2025-11-27 is Thursday, offset 3, Nov 30
+	}
+
+	for _, test := range tests {
+		result := startOfAdvent(test.year)
+		if !result.Equal(test.expected) {
+			t.Errorf("startOfAdvent(%d) = %v, want %v", test.year, result, test.expected)
+		}
+	}
+}
+
+func TestEpiphany(t *testing.T) {
+	tests := []struct {
+		year     int
+		expected time.Time
+	}{
+		{2023, time.Date(2023, 1, 8, 0, 0, 0, 0, loc)}, // Jan 2 2023 Monday, offset 6, Jan 8
+		{2024, time.Date(2024, 1, 7, 0, 0, 0, 0, loc)}, // Jan 2 2024 Tuesday, offset 5, Jan 7
+		{2025, time.Date(2025, 1, 5, 0, 0, 0, 0, loc)}, // Jan 2 2025 Thursday, offset 3, Jan 5
+	}
+
+	for _, test := range tests {
+		result := epiphany(test.year)
+		if !result.Equal(test.expected) {
+			t.Errorf("epiphany(%d) = %v, want %v", test.year, result, test.expected)
+		}
+	}
+}
+
+func TestBaptismOfLord(t *testing.T) {
+	tests := []struct {
+		year     int
+		expected time.Time
+	}{
+		{2023, time.Date(2023, 1, 9, 0, 0, 0, 0, loc)},  // Epiphany Jan 8, >=7 so Jan 9
+		{2024, time.Date(2024, 1, 8, 0, 0, 0, 0, loc)},  // Epiphany Jan 7, >=7 so Jan 8
+		{2025, time.Date(2025, 1, 12, 0, 0, 0, 0, loc)}, // Epiphany Jan 5, <7 so Jan 12 (next Sunday)
+	}
+
+	for _, test := range tests {
+		result := baptismOfLord(test.year)
+		if !result.Equal(test.expected) {
+			t.Errorf("baptismOfLord(%d) = %v, want %v", test.year, result, test.expected)
+		}
+	}
+}
+func TestLiturgicalYear(t *testing.T) {
+	tests := []struct {
+		date     time.Time
+		expected int
+	}{
+		{time.Date(2023, 12, 4, 0, 0, 0, 0, loc), 2024}, // After Advent 2023
+		{time.Date(2023, 12, 2, 0, 0, 0, 0, loc), 2023}, // Before Advent 2023
+		{time.Date(2024, 1, 1, 0, 0, 0, 0, loc), 2024},  // Ordinary time
+	}
+
+	for _, test := range tests {
+		result := liturgicalYear(test.date)
+		if result != test.expected {
+			t.Errorf("liturgicalYear(%v) = %d, want %d", test.date, result, test.expected)
+		}
+	}
+}
+
+func TestSundayCycle(t *testing.T) {
+	tests := []struct {
+		date     time.Time
+		expected string
+	}{
+		{time.Date(2023, 12, 4, 0, 0, 0, 0, loc), "B"}, // Liturgical year 2024, (2024-2008)%3=1, B
+		{time.Date(2024, 1, 1, 0, 0, 0, 0, loc), "B"},  // LY 2024, 2024-2008=16, 16%3=1, B
+		{time.Date(2025, 1, 1, 0, 0, 0, 0, loc), "C"},  // LY 2025, 2025-2008=17, 17%3=2, C
+	}
+
+	for _, test := range tests {
+		result := sundayCycle(test.date)
+		if result != test.expected {
+			t.Errorf("sundayCycle(%v) = %s, want %s", test.date, result, test.expected)
+		}
+	}
+}
+
+func TestWeekdayCycle(t *testing.T) {
+	tests := []struct {
+		year     int
+		expected string
+	}{
+		{2023, "I"},  // 2023 odd, I
+		{2024, "II"}, // 2024 even, II
+		{2025, "I"},  // 2025 odd, I
+	}
+
+	for _, test := range tests {
+		result := weekdayCycle(test.year)
+		if result != test.expected {
+			t.Errorf("weekdayCycle(%d) = %s, want %s", test.year, result, test.expected)
+		}
+	}
+}
+
+func TestSeasonOf(t *testing.T) {
+	year := 2024
+	easter := Easter(year)
+	ash := easter.AddDate(0, 0, -46)
+	pentecost := easter.AddDate(0, 0, 49)
+	advent := startOfAdvent(year)
+
+	tests := []struct {
+		date     time.Time
+		expected Season
+	}{
+		{time.Date(2024, 11, 25, 0, 0, 0, 0, loc), SeasonOrdinary},  // Before Advent
+		{time.Date(2023, 12, 26, 0, 0, 0, 0, loc), SeasonChristmas}, // Christmas season prev year
+		{time.Date(2024, 2, 15, 0, 0, 0, 0, loc), SeasonLent},       // During Lent
+		{easter, SeasonEaster},                       // Easter Sunday
+		{pentecost.AddDate(0, 0, -1), SeasonEaster},  // Before Pentecost
+		{pentecost.AddDate(0, 0, 1), SeasonOrdinary}, // After Pentecost
+	}
+
+	for _, test := range tests {
+		result := seasonOf(test.date, ash, easter, pentecost, advent)
+		if result != test.expected {
+			t.Errorf("seasonOf(%v) = %s, want %s", test.date, result, test.expected)
+		}
+	}
+}

@@ -2,13 +2,33 @@
 
 A Go program that generates liturgical calendar data for any given year, including liturgical seasons, Sunday and weekday cycles, and week numbers within each season.
 
+## Project Structure
+
+```
+liturgical-calendar/
+├── cmd/
+│   └── main.go              # Command-line entry point
+├── internal/
+│   └── calendar/
+│       ├── calendar.go      # Core calendar calculations (Easter, seasons, cycles)
+│       ├── generators.go    # Data generation functions
+│       └── types.go         # Data structures and constants
+├── resources/
+│   └── lectionary.json      # Lectionary readings
+├── go.mod
+├── go.sum
+├── Makefile                 # Build and test automation
+└── README.md
+```
+
 ## Features
 
 - Calculates liturgical seasons (Advent, Christmas, Lent, Easter, Ordinary Time)
 - Determines Sunday cycle (A, B, C) based on the 3-year rotation
 - Sets weekday cycle (I or II) based on even/odd years
 - Computes week numbers within each liturgical season
-- Generates JSON output for easy integration
+- Generates JSON output for easy integration with lectionary
+- Modular design for maintainability and testing
 
 ## Installation
 
@@ -20,17 +40,29 @@ A Go program that generates liturgical calendar data for any given year, includi
 Run the program with a year as argument:
 
 ```bash
-go run main.go <year>
+make build   # Build the binary
+make test    # Run tests
+make run YEAR=2025  # Run with a specific year
 ```
 
 For example:
 ```bash
-go run main.go 2025
+make run YEAR=2025
 ```
 
-This will generate two JSON files:
-- `liturgical-calendar-2025.json`: Basic calendar data
-- `liturgical-calendar-2025-weekpass.json`: Calendar with week numbers added
+This will generate two JSON files in the project root:
+- `liturgical-calendar-2025.json`: Base calendar with season, cycles and week numbers for integration with lectionary
+
+## Building and Testing
+
+Use the provided Makefile for development tasks:
+
+- `make build`: Compile the binary to `bin/lc`
+- `make test`: Run all unit tests with verbose output
+- `make compile`: Check if code compiles without building binary
+- `make clean`: Remove built binaries
+- `make fmt`: Format Go code
+- `make vet`: Run Go vet for code analysis
 
 ## Output Format
 
@@ -51,7 +83,6 @@ Each day entry in the JSON contains:
 ## Resources
 
 - `resources/lectionary.json`: Contains lectionary readings (to be integrated)
-- `resources/sample/`: Sample generated calendars for 2025 and 2026
 
 ## Algorithm Notes
 
