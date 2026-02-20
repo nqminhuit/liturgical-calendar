@@ -1,0 +1,36 @@
+name: Generate Next Year Calendar
+
+on:
+  schedule:
+    - cron: '0 0 25 12 *'
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Year to generate (leave empty for next year)'
+        required: false
+        type: string
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-go@v4
+      with:
+        go-version: '1.26'
+    - run: go mod tidy
+    - run: go test -v ./...
+    - name: Set year
+      run: |
+        if [ -n "${{ github.event.inputs.year }}" ]; then
+          echo "YEAR=${{ github.event.inputs.year }}" >> $GITHUB_ENV
+        else
+          echo "YEAR=$(date -d '+1 year' +'%Y')" >> $GITHUB_ENV
+        fi
+    - name: Generate calendar
+      run: |
+        output=$(go run cmd/main.go ${{ env.YEAR }})
+        printf "$output\n" > $GITHUB_STEP_SUMMARY
+        printf "\`\`\`json\n" >> $GITHUB_STEP_SUMMARY
+        cat "liturgical-calendar-${{ env.YEAR }}.json" >> $GITHUB_STEP_SUMMARY
+        printf "\n\`\`\`\n" >> $GITHUB_STEP_SUMMARY

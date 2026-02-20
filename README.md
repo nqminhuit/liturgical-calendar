@@ -91,6 +91,16 @@ Each day entry in the JSON contains:
 - Sunday cycles repeat every 3 years, starting with cycle A in 2008
 - Weekday cycles alternate yearly (even years: II, odd years: I)
 
-## Dependencies
+## CI/CD
 
-- Standard Go library only (time, json, os packages)
+This project uses GitHub Actions for continuous integration and automated updates:
+
+- **CI Pipeline**: Runs tests on every push and pull request to ensure code quality
+- **Scheduled Generation**: Automatically generates the liturgical calendar for the next year on December 1st
+
+### Setting up GitHub Actions
+
+The workflows are defined in `.github/workflows/`:
+
+- `ci.yml`: Continuous integration
+- `scheduler.yml`: Annual calendar generation (runs Dec 1st)
