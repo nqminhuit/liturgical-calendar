@@ -36,6 +36,90 @@ func GenerateYear(year int) map[string]DayInfo {
 	return result
 }
 
+// ordinaryWeekPass traverses through calendar map,
+// filter only season == "ordinary" to set week_of_season.
+// Ordinary in a liturgical calendar has 2 segments:
+//
+// 1. after Christmas, until Ash Wednesday (the first wednesday of Lent with week_of_season = 0)
+//
+// 2. after Pentecost
+//
+// week_of_season from the 1st segment will increase by 1 on every Sunday.
+// week_of_season from the 2nd segment will have to traverse backward:
+// from the first Sunday of Advent Season back to 1 Sunday is the 34th week of Ordinary Season,
+// then keep going back and set the week_of_season.
+//
+// There are always 34 weeks of Ordinary season, never more, never less.
+func ordinaryWeekPass(calendar map[string]DayInfo) {
+	// ---- sort dates ----
+	dates := make([]string, 0, len(calendar))
+	for d := range calendar {
+		dates = append(dates, d)
+	}
+	sort.Strings(dates)
+
+	// =====================================
+	// FIRST SEGMENT (forward)
+	// =====================================
+	week := 0
+	started := false
+	for _, d := range dates {
+		day := calendar[d]
+		if day.Season == SeasonOrdinary {
+			if !started {
+				started = true
+				week = 1
+			} else if day.Weekday == "sun" {
+				week++
+			}
+
+			day.WeekOfSeason = week
+			calendar[d] = day
+		} else if started {
+			// stop when leaving first ordinary segment
+			break
+		}
+	}
+
+	// =====================================
+	// FIND ADVENT START
+	// =====================================
+	adventStart := -1
+	for i, d := range dates {
+		if calendar[d].Season == SeasonAdvent {
+			adventStart = i
+			break
+		}
+	}
+	if adventStart == -1 {
+		return
+	}
+
+	// =====================================
+	// SECOND SEGMENT (backward)
+	// =====================================
+	week = 34
+
+	for i := adventStart - 1; i >= 0; i-- {
+		d := dates[i]
+		day := calendar[d]
+
+		if day.Season != SeasonOrdinary {
+			break
+		}
+
+		day.WeekOfSeason = week
+		calendar[d] = day
+
+		if day.Weekday == "sun" {
+			week--
+			if week == 0 {
+				break
+			}
+		}
+	}
+}
+
 func WeekPass(filename string) {
 	raw, err := os.ReadFile(filename)
 	if err != nil {
@@ -56,13 +140,11 @@ func WeekPass(filename string) {
 
 	// counters
 	var (
-		adventWeek             int
-		christmasWeek          int
-		lentWeek               int
-		easterWeek             int
-		ordinaryWeek           int
-		prevSeason             Season = ""
-		lastOrdinaryBeforeLent int
+		adventWeek    int
+		christmasWeek int
+		lentWeek      int
+		easterWeek    int
+		prevSeason    Season = ""
 	)
 
 	for _, key := range dates {
@@ -73,7 +155,6 @@ func WeekPass(filename string) {
 		isSunday := d.Weekday() == time.Sunday
 
 		switch day.Season {
-
 		case SeasonAdvent:
 			if prevSeason != SeasonAdvent {
 				adventWeek = 1
@@ -93,9 +174,6 @@ func WeekPass(filename string) {
 			day.WeekOfSeason = christmasWeek
 
 		case SeasonLent:
-			if prevSeason == SeasonOrdinary {
-				lastOrdinaryBeforeLent = ordinaryWeek
-			}
 			if prevSeason != SeasonLent {
 				lentWeek = 0
 			} else if isSunday {
@@ -112,24 +190,14 @@ func WeekPass(filename string) {
 			day.WeekOfSeason = easterWeek
 
 		case SeasonOrdinary:
-			// IMPORTANT:
-			// Ordinary continues after Easter → do NOT reset
-			if prevSeason != SeasonOrdinary {
-				if ordinaryWeek == 0 {
-					ordinaryWeek = 1
-				}
-				if prevSeason == SeasonEaster {
-					ordinaryWeek = lastOrdinaryBeforeLent + 2
-				}
-			} else if isSunday {
-				ordinaryWeek++
-			}
-			day.WeekOfSeason = ordinaryWeek
+			// ignore here
 		}
 
 		calendar[key] = day
 		prevSeason = day.Season
 	}
+
+	ordinaryWeekPass(calendar)
 
 	out, err := json.MarshalIndent(calendar, "", "  ")
 	if err != nil {
