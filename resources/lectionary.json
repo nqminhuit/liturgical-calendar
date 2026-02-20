@@ -40,37 +40,37 @@
       "second": "2Cr 5,20-6,2",
       "secondQuote": "Anh em hãy làm hoà với Thiên Chúa. Đây là thời Thiên Chúa thi ân.",
       "gospel": "Mt 6,1-6.16-18",
-      "gospelQuote": "Và Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh."
+      "gospelQuote": "Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh."
     },
     "lent_0_thu_II": {
-      "first": "Ðnl 30, 15-20",
+      "first": "Ðnl 30,15-20",
       "firstQuote": "Hôm nay tôi đề nghị với anh em về sự chúc lành và sự chúc dữ",
-      "psalm": "Tv 1, 1-2. 3. 4 và 6",
-      "gospel": "Lc 9, 22-25",
+      "psalm": "Tv 1,1-2.3.4 và 6",
+      "gospel": "Lc 9,22-25",
       "gospelQuote": "Ai muốn theo Ta, hãy bỏ mình, vác thập giá mình hằng ngày mà theo Ta."
     },
     "lent_0_fri_II": {
-      "first": "Is 58, 1-9a",
+      "first": "Is 58,1-9a",
       "firstQuote": "Có phải đó là việc ăn chay mà Ta mong muốn không?",
-      "psalm": "Tv 50, 3-4. 5-6a. 18-19",
-      "gospel": "Mt 9, 14-15",
+      "psalm": "Tv 50,3-4.5-6a.18-19",
+      "gospel": "Mt 9,14-15",
       "gospelQuote": "Khi tân lang ra đi, bấy giờ họ mới ăn chay."
     },
     "lent_0_sat_II": {
-      "first": "Is 58, 9b-14",
-      "firstQuote": "Nếu ngươi nhường miếng ăn cho kẻ đói, thì ánh sáng ngươi sẽ chiếu toả trong bóng tối.",
-      "psalm": "Tv 85, 1-2. 3-4. 5-6",
-      "gospel": "Lc 5, 27-32",
-      "gospelQuote": "Tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi sám hối ăn năn."
+      "first": "Is 58,9b-14",
+      "firstQuote": "Ngươi hãy ca tụng Chúa khi ngươi bỏ đường lối của ngươi.",
+      "psalm": "Tv 85,1-2.3-4.5-6",
+      "gospel": "Lc 5,27-32",
+      "gospelQuote": "Ta đến không phải để kêu mời người công chính, nhưng để gọi kẻ tội lỗi ăn năn hối cải."
     },
 
     "lent_1_sun_A": {
-      "first": "St 2, 7-9. 3, 1-7",
+      "first": "St 2,7-9.3,1-7",
       "firstQuote": "Thiên Chúa dựng nên hai ông bà nguyên tổ. Ông bà phạm tội.",
-      "psalm": "Tv 50, 3-4. 5-6a. 12-13. 14 và 17",
-      "second": "Rm 5, 12-19",
+      "psalm": "Tv 50,3-4.5-6a.12-13.14 và 17",
+      "second": "Rm 5,12-19",
       "secondQuote": "Ở đâu tội lỗi đã lan tràn, ở đó ân sủng càng chứa chan gấp bội.",
-      "gospel": "Mt 4, 1-11",
+      "gospel": "Mt 4,1-11",
       "gospelQuote": "Người ta sống không chỉ nhờ cơm bánh, nhưng còn nhờ mọi lời miệng Thiên Chúa phán ra."
     },
     "lent_1_sun_B": {},
@@ -120,16 +120,115 @@
     "pentecost_B": {},
     "pentecost_C": {},
 
-    "ordinary_1_sun_A": {},
-    "ordinary_1_sun_B": {},
-    "ordinary_1_sun_C": {},
     "ordinary_1_mon_I": {},
-    "ordinary_1_mon_II": {},
+    "ordinary_1_mon_II": {
+      "first": "1Sm 1,1-8",
+      "firstQuote": "Anna buồn sầu, vì Chúa đã để bà phải son sẻ.",
+      "psalm": "Tv 115,12-13.14 và 17.18-19",
+      "gospel": "Mc 1,14-20",
+      "gospelQuote": "Anh em hãy ăn năn sám hối và tin vào Tin mừng."
+    },
     "ordinary_1_tue_I": {},
-    "ordinary_1_tue_II": {},
-    "ordinary_2_sun_A": {},
+    "ordinary_1_tue_II": {
+      "first": "1Sm 1,9-20",
+      "firstQuote": "Chúa nhớ đến bà Anna và bà đã sinh Samuel.",
+      "psalm": "1Sm 2,1.4-5.6-7.8abcd",
+      "gospel": "Mc 1,21-28",
+      "gospelQuote": "Thần ô uế lay mạnh người ấy, thét lên một tiếng, và xuất khỏi anh ta."
+    },
+    "ordinary_1_wed_I": {},
+    "ordinary_1_wed_II": {
+      "first": "1Sm 3,1-10.19-20",
+      "firstQuote": "Lạy Chúa, xin hãy nói, vì tôi tớ Chúa đang nghe.",
+      "psalm": "Tv 39,2 và 5.7-8a.8b-9.10",
+      "gospel": "Mc 1,29-39",
+      "gospelQuote": "Đức Giê-su chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật, và trừ nhiều quỷ, nhưng không cho quỷ nói, vì chúng biết Người là ai."
+    },
+    "ordinary_1_thu_I": {},
+    "ordinary_1_thu_II": {
+      "first": "1Sm 4,1-11",
+      "firstQuote": "Israel thất trận và hòm bia Thiên Chúa bị chiếm đoạt.",
+      "psalm": "Tv 43,10-11.14-15.24-25",
+      "gospel": "Mc 1,40-45",
+      "gospelQuote": "Người chạnh lòng thương giơ tay đụng vào anh và bảo: “Tôi muốn, anh sạch đi!”"
+    },
+    "ordinary_1_fri_I": {},
+    "ordinary_1_fri_II": {
+      "first": "1Sm 8,4-7.10-22a",
+      "firstQuote": "Các ngươi sẽ ca thán vì nhà vua, nhưng Chúa sẽ không nhậm lời các ngươi, vì các ngươi đã xin ban cho các ngươi một nhà vua.",
+      "psalm": "Tv 88,16-17.18-19",
+      "gospel": "Mc 2,1-12",
+      "gospelQuote": "Thấy họ có lòng tin như vậy, Đức Giê-su bảo người bại liệt: “Này con, con đã được tha tội rồi.”"
+    },
+    "ordinary_1_sat_I": {},
+    "ordinary_1_sat_II": {
+      "first": "1Sm 9,1-4.17-19;10,1a",
+      "firstQuote": "Này là người mà Chúa nói đến. Saolê sẽ cai trị dân Người.",
+      "psalm": "Tv 20,2-3.4-5.6-7",
+      "gospel": "Mc 2,13-17",
+      "gospelQuote": "Người khỏe mạnh không cần thầy thuốc, người đau ốm mới cần. Tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi."
+    },
+
+    "ordinary_2_sun_A": {
+      "first": "Is 49,3.5-6",
+      "firstQuote": "Ta đặt ngươi làm ánh sáng muôn dân để ngươi đem ơn cứu độ của Ta đến tận cùng cõi đất.",
+      "psalm": "Tv 39,2 và 4ab.7-8a.8b-9.10 (Đ. x. c.8a và c.9a)",
+      "second": "1Cr 1,1-3",
+      "secondQuote": "Xin Thiên Chúa là Cha chúng ta, và xin Chúa Giê-su ban cho anh em ân sủng và bình an.",
+      "gospel": "Ga 1,29-34",
+      "gospelQuote": "Đây là Chiên Thiên Chúa, Đấng xoá bỏ tội trần gian."
+    },
     "ordinary_2_sun_B": {},
-    "ordinary_2_sun_C": {}
+    "ordinary_2_sun_C": {},
+    "ordinary_2_mon_I": {},
+    "ordinary_2_mon_II": {
+      "first": "1Sm 15,16-23",
+      "firstQuote": "Vâng lời thì tốt hơn của lễ. Chúa truất phế không cho ông làm vua nữa.",
+      "psalm": "Tv 49,8-9.16bc-17.21 và 23",
+      "gospel": "Mc 2,18-22",
+      "gospelQuote": "Chẳng ai lấy vải mới mà vá áo cũ, vì như vậy, miếng vá mới đã vá vào sẽ kéo vải cũ, khiến chỗ rách lại càng rách thêm"
+    },
+    "ordinary_2_tue_I": {},
+    "ordinary_2_tue_II": {
+      "first": "1Sm 16,1-13",
+      "firstQuote": "Samuel xức dầu cho Ðavít trước mặt các anh em ngài; và Thánh Thần ngự xuống trên ngài.",
+      "psalm": "Tv 88,20.21-22.27-28",
+      "gospel": "Mc 2,23-28",
+      "gospelQuote": "Ngày sa-bát được tạo nên cho con người, chứ không phải con người cho ngày sa-bát."
+    },
+    "ordinary_2_wed_I": {},
+    "ordinary_2_wed_II": {
+      "first": "1Sm 17,32-33.37.40-51",
+      "firstQuote": "Ðavít đã dùng dây ném đá và đá mà thắng tên Philitinh",
+      "psalm": "Tv 143,1.2.9-10",
+      "gospel": "Mc 3,1-6",
+      "gospelQuote": "Ngày sa-bát, được phép làm điều lành hay điều dữ, cứu mạng người hay giết đi?"
+    },
+    "ordinary_2_thu_I": {},
+    "ordinary_2_thu_II": {
+      "first": "1Sm 18,6-9;19,1-7",
+      "firstQuote": "Thân phụ tôi là Saolê định giết anh.",
+      "psalm": "Tv 55,2-3.9-10ab.10c-11.12-13",
+      "gospel": "Mc 3,7-12",
+      "gospelQuote": "Còn các thần ô uế, hễ thấy Đức Giê-su, thì sấp mình dưới chân Người và kêu lên: “Ông là Con Thiên Chúa!”"
+    },
+    "ordinary_2_fri_I": {},
+    "ordinary_2_fri_II": {
+      "first": "1Sm 24,3-21",
+      "firstQuote": "Tôi sẽ không ra tay sát hại người, vì người là Ðấng xức dầu của Chúa.",
+      "psalm": "Tv 56,2.3-4.6 và 11",
+      "gospel": "Mc 3,13-19",
+      "gospelQuote": "Người lập Nhóm Mười Hai, để các ông ở với Người và để Người sai các ông đi rao giảng, với quyền trừ quỷ."
+    },
+    "ordinary_2_sat_I": {},
+    "ordinary_2_sat_II": {
+      "first": "2Sm 1,1-4,11-12.19.23-27",
+      "firstQuote": "Cớ sao các anh hùng lại ngã gục trên chiến trường như thế?",
+      "psalm": "Tv 79,2-3.5-7",
+      "gospel": "Mc 3,20-21",
+      "gospelQuote": "Thân nhân của Người hay tin ấy, liền đi bắt Người, vì họ nói rằng Người đã mất trí"
+    },
+    "": {}
   },
   "feasts": {
     "annunciation": {},
