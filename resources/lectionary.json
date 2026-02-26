@@ -124,13 +124,33 @@
       "gospelQuote": "Anh em hãy nên hoàn thiện, như Cha anh em trên trời là Đấng hoàn thiện."
     },
 
-    "lent_2_sun_A": {},
+    "lent_2_sun_A": {
+      "first": "St 12,1-4a",
+        "firstQuote": "Thiên Chúa gọi ông Áp-ram, tổ phụ dân Người",
+      "psalm": "Tv 32,4-5.18-19.20 và 22 (Đ. x. c.22)",
+        "second": "2Tm 1,8b-10",
+        "secondQuote": "Thiên Chúa kêu gọi và soi sáng chúng ta",
+        "gospel": "Mt 17,1-9",
+        "gospelQuote": "Đây là Con yêu dấu của Ta, Ta hài lòng về Người. Các ngươi hãy vâng nghe lời Người!"
+    },
     "lent_2_sun_B": {},
     "lent_2_sun_C": {},
     "lent_2_mon_I": {},
-    "lent_2_mon_II": {},
+    "lent_2_mon_II": {
+      "first": "Đn 9,4b-10",
+      "firstQuote": "Chúng con đã phạm tội, đã làm điều gian ác",
+      "psalm": "Tv 78,8.9.11 và 13 (Đ. Tv 102,10a)",
+      "gospel": "Lc 6,36-38",
+      "gospelQuote": "Anh em hãy tha thứ, thì sẽ được Thiên Chúa thứ tha"
+    },
     "lent_2_tue_I": {},
-    "lent_2_tue_II": {},
+    "lent_2_tue_II": {
+      "first": "Is 1,10.16-20",
+      "firstQuote": "Hãy tập làm điều thiện, tìm kiếm lẽ công bình",
+      "psalm": "Tv 49,8-9.16bc-17.21 và 23 (Đ. x. c.23b)",
+      "gospel": "Mt 23,1-12",
+      "gospelQuote": "Ai tôn mình lên, sẽ bị hạ xuống ; còn ai hạ mình xuống, sẽ được tôn lên"
+    },
     "lent_2_wed_I": {},
     "lent_2_wed_II": {},
     "lent_2_thu_I": {},
