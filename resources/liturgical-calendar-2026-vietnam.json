@@ -1,14 +1,18 @@
 {
   "2026-02-17": {
+    "name": "Mồng Một Tết Bính Ngọ: Cầu Bình An Cho Năm Mới",
     "lectionary_key": "tet1_A"
   },
   "2026-02-18": {
+    "name": "Mồng Hai Tết Bính Ngọ: Kính nhớ Tổ Tiên và Ông Bà Cha Mẹ",
     "lectionary_key": "tet2_A"
   },
   "2026-02-19": {
+    "name": "Mồng Ba Tết Bính Ngọ: Thánh Hoá Công Ăn Việc Làm",
     "lectionary_key": "tet3_A"
   },
   "2026-02-20": {
+    "name": "Lễ Tro",
     "lectionary_key": "ash_wed"
   }
 }
