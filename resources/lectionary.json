@@ -126,12 +126,12 @@
 
     "lent_2_sun_A": {
       "first": "St 12,1-4a",
-        "firstQuote": "Thiên Chúa gọi ông Áp-ram, tổ phụ dân Người",
+      "firstQuote": "Thiên Chúa gọi ông Áp-ram, tổ phụ dân Người",
       "psalm": "Tv 32,4-5.18-19.20 và 22 (Đ. x. c.22)",
-        "second": "2Tm 1,8b-10",
-        "secondQuote": "Thiên Chúa kêu gọi và soi sáng chúng ta",
-        "gospel": "Mt 17,1-9",
-        "gospelQuote": "Đây là Con yêu dấu của Ta, Ta hài lòng về Người. Các ngươi hãy vâng nghe lời Người!"
+      "second": "2Tm 1,8b-10",
+      "secondQuote": "Thiên Chúa kêu gọi và soi sáng chúng ta",
+      "gospel": "Mt 17,1-9",
+      "gospelQuote": "Đây là Con yêu dấu của Ta, Ta hài lòng về Người. Các ngươi hãy vâng nghe lời Người!"
     },
     "lent_2_sun_B": {},
     "lent_2_sun_C": {},
@@ -931,9 +931,49 @@
     "ordinary_34_fri_I": {},
     "ordinary_34_fri_II": {},
     "ordinary_34_sat_I": {},
-    "ordinary_34_sat_II": {}
-  },
-  "feasts": {
+    "ordinary_34_sat_II": {},
+    "tet1_A": {
+      "first": "St 1,14-18",
+      "firstQuote": "Những vật sáng hãy trở thành dấu chỉ thời gian, ngày và năm tháng",
+      "psalm": "Tv 36,3-4.5-6.23-24.25-26 (Đ. x. c 5)",
+      "second": "Pl 4,4-8",
+      "secondQuote": "Anh em hãy vui luôn trong niềm vui của Chúa. Tôi nhắc lại: Vui lên anh em",
+      "gospel": "Mt 6,25-34",
+      "gospelQuote": "Trước hết, hãy tìm kiếm Nước Thiên Chúa và đức công chính của Người"
+    },
+    "tet1_B": {},
+    "tet1_C": {},
+    "tet2_A": {
+      "first": "Hc 44,1.10-15",
+      "firstQuote": "Chúng ta hãy ca tụng các bậc cha ông của chúng ta đã sống qua các thời đại",
+      "psalm": "Tv 127,1-2.3.4-5a.5b-6 (Đ. x. c.1)",
+      "second": "Ep 6,1-4.18-23",
+      "secondQuote": "Hãy tôn kính cha mẹ, để ngươi được hạnh phúc và hưởng thọ trên mặt đất này",
+      "gospel": "Mt 15,1-6",
+      "gospelQuote": "Ngươi hãy thảo kính cha mẹ"
+    },
+    "tet2_B": {},
+    "tet2_C": {},
+    "tet3_A": {
+      "first": "St 2,4b-9.15",
+      "firstQuote": "Thiên Chúa đem con người đặt vào vườn địa đàng, để họ trồng tỉa",
+      "psalm": "Tv 103,1-2a.14-15.24.27-28",
+      "second": "Cv 20,32-35",
+      "secondQuote": "Những gì cần thiết cho tôi và cho những người sống với tôi, chính đôi tay này tự cung cấp lấy",
+      "gospel": "Mt 25,14-30",
+      "gospelQuote": "Ông đã giao cho tôi năm yến, tôi đã gây lời được năm yến khác đây"
+    },
+    "tet3_B": {},
+    "tet3_C": {},
+    "ash_wed": {
+      "first": "Ge 2,12-18",
+      "firstQuote": "Hãy xé tâm hồn chứ đừng xé áo các ngươi",
+      "psalm": "Tv 50,3-4.5-6a.12-13.14 và 17",
+      "second": "2Cr 5,20-6,2",
+      "secondQuote": "Hãy làm hoà cùng Chúa đi… Bây giờ là cơ hội thuận tiện",
+      "gospel": "Mt 6,1-6.16-18",
+      "gospelQuote": "Cha anh em, Ðấng thấu suốt mọi bí ẩn, sẽ trả công cho anh em"
+    },
     "annunciation": {},
     "st_joseph": {},
     "chair_of_peter": {},
