@@ -10,7 +10,7 @@ build:
 
 # Run tests with detailed report
 test:
-	go test -v ./...
+	go test -v -cover ./...
 
 # Compile code without building binary (check for errors)
 compile:

@@ -224,3 +224,74 @@ func WeekPass(filename string) {
 	}
 	fmt.Print(filename)
 }
+
+// another pass to set the name of special Masses, e.g. Christmas, Ash Wednesday, Easter Sunday,
+// Holy Monday, Holy Tuesday, Holy Wednesday, Holy Thursday, Good Friday, Pentecost Sunday, etc.
+func NameMassPass(filename string) {
+	raw, err := os.ReadFile(filename)
+	if err != nil {
+		panic(err)
+	}
+
+	// unmarshal calendar as generic map so we can add "name" fields
+	calendar := map[string]map[string]any{}
+	if err := json.Unmarshal(raw, &calendar); err != nil {
+		panic(err)
+	}
+
+	// load lectionary resource which contains names for many lectionary keys
+	lecRaw, err := os.ReadFile("resources/lectionary.json")
+	if err != nil {
+		panic(err)
+	}
+	var lec struct {
+		Readings map[string]map[string]any `json:"readings"`
+	}
+	if err := json.Unmarshal(lecRaw, &lec); err != nil {
+		panic(err)
+	}
+
+	for date, entry := range calendar {
+		if entry == nil {
+			entry = map[string]any{}
+		}
+
+		// preserve existing name if present
+		if nameI, ok := entry["name"]; ok {
+			if s, ok2 := nameI.(string); ok2 && s != "" {
+				calendar[date] = entry
+				continue
+			}
+		}
+
+		lkI, ok := entry["lectionary_key"]
+		if !ok {
+			calendar[date] = entry
+			continue
+		}
+		lk, ok := lkI.(string)
+		if !ok || lk == "" {
+			calendar[date] = entry
+			continue
+		}
+
+		if rd, ok := lec.Readings[lk]; ok && rd != nil {
+			if nI, ok := rd["name"]; ok {
+				if nStr, ok2 := nI.(string); ok2 && nStr != "" {
+					entry["name"] = nStr
+				}
+			}
+		}
+
+		calendar[date] = entry
+	}
+
+	out, err := json.MarshalIndent(calendar, "", "  ")
+	if err != nil {
+		panic(err)
+	}
+	if err := os.WriteFile(filename, out, 0644); err != nil {
+		panic(err)
+	}
+	fmt.Print(filename)
+}

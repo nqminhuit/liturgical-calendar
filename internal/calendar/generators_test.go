@@ -439,3 +439,72 @@ func TestWeekPass2026(t *testing.T) {
 		}
 	}
 }
+
+func TestNameMassPass(t *testing.T) {
+	// prepare temp dir
+	td := t.TempDir()
+	// create resources dir and lectionary.json
+	resdir := filepath.Join(td, "resources")
+	if err := os.Mkdir(resdir, 0755); err != nil {
+		t.Fatalf("mkdir resources: %v", err)
+	}
+	lec := map[string]map[string]map[string]string{
+		"readings": {
+			"test_key": {"name": "Test Name"},
+		},
+	}
+	lecRaw, err := json.Marshal(lec)
+	if err != nil {
+		t.Fatalf("marshal lectionary: %v", err)
+	}
+	if err := os.WriteFile(filepath.Join(resdir, "lectionary.json"), lecRaw, 0644); err != nil {
+		t.Fatalf("write lectionary: %v", err)
+	}
+
+	// create calendar file without names
+	cal := map[string]map[string]string{
+		"2026-01-01": {"lectionary_key": "test_key"},
+		"2026-01-02": {"name": "Existing", "lectionary_key": "other"},
+	}
+	calRaw, err := json.Marshal(cal)
+	if err != nil {
+		t.Fatalf("marshal cal: %v", err)
+	}
+	calFile := filepath.Join(td, "calendar.json")
+	if err := os.WriteFile(calFile, calRaw, 0644); err != nil {
+		t.Fatalf("write calendar: %v", err)
+	}
+
+	// chdir to temp dir so NameMassPass finds resources/lectionary.json by relative path
+	orig, _ := os.Getwd()
+	if err := os.Chdir(td); err != nil {
+		t.Fatalf("chdir: %v", err)
+	}
+	defer func() { _ = os.Chdir(orig) }()
+
+	// run
+	NameMassPass(calFile)
+
+	// read back
+	b, err := os.ReadFile(calFile)
+	if err != nil {
+		t.Fatalf("read back: %v", err)
+	}
+	res := map[string]map[string]interface{}{}
+	if err := json.Unmarshal(b, &res); err != nil {
+		t.Fatalf("unmarshal: %v", err)
+	}
+
+	if v, ok := res["2026-01-01"]["name"]; !ok {
+		t.Fatalf("expected name for 2026-01-01")
+	} else if s, _ := v.(string); s != "Test Name" {
+		t.Fatalf("unexpected name: %v", s)
+	}
+
+	// ensure existing name preserved
+	if v, ok := res["2026-01-02"]["name"]; !ok {
+		t.Fatalf("expected existing name preserved")
+	} else if s, _ := v.(string); s != "Existing" {
+		t.Fatalf("existing name changed: %v", s)
+	}
+}
