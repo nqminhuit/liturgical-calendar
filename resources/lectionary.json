@@ -152,13 +152,37 @@
       "gospelQuote": "Ai tôn mình lên, sẽ bị hạ xuống ; còn ai hạ mình xuống, sẽ được tôn lên"
     },
     "lent_2_wed_I": {},
-    "lent_2_wed_II": {},
+    "lent_2_wed_II": {
+      "first": "Gr 18,18-20",
+      "firstQuote": "Hãy đến, và chúng ta hành hạ nó",
+      "psalm": "Tv 30,5-6.14.15-16",
+      "gospel": "Mt 20,17-28",
+      "gospelQuote": "Họ đã lên án tử cho Người"
+    },
     "lent_2_thu_I": {},
-    "lent_2_thu_II": {},
+    "lent_2_thu_II": {
+      "first": "Gr 17,5-10",
+      "firstQuote": "Khốn thay cho kẻ tin tưởng người đời; phúc thay cho người tin tưởng vào Thiên Chúa",
+      "psalm": "Tv 1,1-2.3.4 và 6",
+      "gospel": "Lc 16,19-31",
+      "gospelQuote": "Con đã được sự lành, còn Ladarô gặp toàn sự khốn khổ"
+    },
     "lent_2_fri_I": {},
-    "lent_2_fri_II": {},
+    "lent_2_fri_II": {
+      "first": "St 37,3-4.12-13a.17b-28",
+      "firstQuote": "Này thằng chiêm bao đến kia rồi, anh em hãy lại đây, chúng ta bắt giết nó",
+      "psalm": "Tv 104,16-17.18-19.20-21",
+      "gospel": "Mt 21,33-43.45-46",
+      "gospelQuote": "Ðứa con thừa tự kia rồi, nào anh em, chúng ta hãy giết nó"
+    },
     "lent_2_sat_I": {},
-    "lent_2_sat_II": {},
+    "lent_2_sat_II": {
+      "first": "Mk 7,14-15.18-20",
+      "firstQuote": "Chúa ném mọi tội lỗi chúng tôi xuống đáy biển",
+      "psalm": "Tv 102,1-2.3-4.9-10.11-12",
+      "gospel": "Lc 15,1-3.11-32",
+      "gospelQuote": "Em con đã chết nay sống lại, đã mất nay lại tìm thấy"
+    },
 
     "lent_3_sun_A": {},
     "lent_3_sun_B": {},
