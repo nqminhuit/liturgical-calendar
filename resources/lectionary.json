@@ -304,43 +304,161 @@
       "gospelQuote": "Chớ thì luật của chúng ta có lên án cho ai mà không nghe họ, hoặc không biết rõ họ làm gì không?"
     },
 
-    "lent_5_sun_A": {},
+    "lent_5_sun_A": {
+      "first": "Ed 37,12-14",
+      "firstQuote": "Ta sẽ cho các ngươi thần trí của Ta, và các ngươi sẽ được sống",
+      "psalm": "Tv 129,1-2.3-4ab.4c-6.7-8",
+      "second": "Rm 8,8-11",
+      "secondQuote": "Thánh Thần của Ðấng làm cho Ðức Giêsu Kitô từ cõi chết sống lại ở trong anh em",
+      "gospel": "Ga 11,1-45",
+      "gospelQuote": "Ta là sự sống lại và là sự sống, ai tin Ta, dầu có chết cũng sẽ được sống. Và kẻ nào sống mà tin Ta, sẽ không chết bao giờ."
+    },
     "lent_5_sun_B": {},
     "lent_5_sun_C": {},
     "lent_5_mon_I": {},
-    "lent_5_mon_II": {},
+    "lent_5_mon_II": {
+      "first": "Đn 13,1-9.15-17.19-30.33-62",
+      "firstQuote": "Ðây tôi phải chết, dù tôi không làm điều họ vu khống cho tôi",
+      "psalm": "Tv 22,1-3a.3b-4.5.6",
+      "gospel": "Ga 8,1-11",
+      "gospelQuote": "Ta cũng thế, Ta không kết tội chị. Vậy chị hãy đi, và từ nay đừng phạm tội nữa"
+    },
     "lent_5_tue_I": {},
-    "lent_5_tue_II": {},
+    "lent_5_tue_II": {
+      "first": "Ds 21,4-9",
+      "firstQuote": "Ngươi hãy đúc một con rắn đồng và treo nó lên làm dấu; kẻ nào bị rắn cắn mà nhìn lên rắn đồng, thì được sống",
+      "psalm": "Tv 101,2-3.16-18.19-21",
+      "gospel": "Ga 8,21-30",
+      "gospelQuote": "Khi nào các ông đưa Con Người lên cao, các ông sẽ nhận biết Ta là ai"
+    },
     "lent_5_wed_I": {},
-    "lent_5_wed_II": {},
+    "lent_5_wed_II": {
+      "first": "Đn 3,14-20.91-92.95",
+      "firstQuote": "Người đã sai thiên thần của Người đến giải thoát các tôi tớ Người",
+      "psalm": "Ðn 3,52.53.54.55.56",
+      "gospel": "Ga 8,31-42",
+      "gospelQuote": "Nếu Chúa Con giải thoát các ngươi, thì các ngươi sẽ được tự do thực sự"
+    },
     "lent_5_thu_I": {},
-    "lent_5_thu_II": {},
+    "lent_5_thu_II": {
+      "first": "St 17,3-9",
+      "firstQuote": "Thiên hạ sẽ không còn gọi ngươi là Áp-ram nữa, nhưng sẽ gọi là Áp-ra-ham, vì Ta đặt ngươi làm tổ phụ nhiều dân tộc",
+      "psalm": "Tv 104,4-5.6-7.8-9",
+      "gospel": "Ga 8,51-59",
+      "gospelQuote": "Cha các ngươi là Áp-ra-ham đã hân hoan, vì nghĩ sẽ được thấy ngày của Ta"
+    },
     "lent_5_fri_I": {},
-    "lent_5_fri_II": {},
+    "lent_5_fri_II": {
+      "first": "Gr 20,10-13",
+      "firstQuote": "Chúa ở cùng tôi như người lính chiến hùng dũng; vì thế, những kẻ bắt bớ tôi sẽ ngã quỵ và kiệt sức",
+      "psalm": "Tv 17,2-3a.3bc-4.5-6.7",
+      "gospel": "Ga 10,31-42",
+      "gospelQuote": "Ta đã cho các ngươi thấy nhiều việc tốt lành bởi Cha Ta... Nếu Ta làm những việc đó, thì dầu các ngươi không muốn tin Ta, cũng hãy tin vào các việc đó, để các ngươi biết và tin rằng: Cha ở trong Ta, và Ta ở trong Cha"
+    },
     "lent_5_sat_I": {},
-    "lent_5_sat_II": {},
+    "lent_5_sat_II": {
+      "first": "Ed 37,21-28",
+      "firstQuote": "Ta sẽ làm cho chúng trở nên dân tộc duy nhất",
+      "psalm": "Gr 31,10.11-12ab.13",
+      "gospel": "Ga 11,45-56",
+      "gospelQuote": "Ðể quy tụ con cái Thiên Chúa đang tản mát về một mối"
+    },
 
-    "lent_6_sun_A": {},
+    "lent_6_sun_A": {
+      "name": "Chúa Nhật Lễ Lá - Năm A",
+      "first": "Is 50,4-7",
+      "firstQuote": "Vì Chúa nâng đỡ tôi, nên tôi không phải hổ thẹn; nên tôi trơ mặt chai như đá, tôi biết tôi sẽ không phải hổ thẹn",
+      "psalm": "Tv 21,8-9.17-18a.19-20.23-24)",
+      "second": "Pl 2,6-11",
+      "secondQuote": "Thiên Chúa đã tôn vinh Người, và ban cho Người một danh hiệu vượt trên mọi danh hiệu",
+      "gospel": "Mt 26,14-27,66",
+      "gospelQuote": "Bài Thương Khó Ðức Giêsu Kitô, Chúa chúng ta, theo Thánh Matthêu"
+    },
     "lent_6_sun_B": {},
     "lent_6_sun_C": {},
     "lent_6_mon_I": {},
-    "lent_6_mon_II": {},
+    "lent_6_mon_II": {
+      "name": "Thứ Hai Tuần Thánh",
+      "first": "Is 42,1-7",
+      "firstQuote": "Người không bẻ gãy cây lau bị giập, không dập tắt tim đèn còn khói",
+      "psalm": "Tv 26, 1. 2. 3. 13-14",
+      "gospel": "Ga 12,1-11",
+      "gospelQuote": "Hãy để mặc cô ấy làm công việc chỉ về ngày táng xác Thầy. Vì anh em sẽ có người nghèo luôn bên cạnh, còn Thầy, anh em sẽ không gặp Thầy mãi mãi đâu."
+    },
     "lent_6_tue_I": {},
-    "lent_6_tue_II": {},
+    "lent_6_tue_II": {
+      "name": "Thứ Ba Tuần Thánh",
+      "first": "Is 49,1-6",
+      "firstQuote": "Ta làm cho con nên ánh sáng các dân tộc, để con trở thành ơn cứu độ Ta ban cho đến tận bờ cõi trái đất",
+      "psalm": "Tv 70,1-2.3-4a.5-6ab.15 và 17",
+      "gospel": "Ga 13,21-33.36-38",
+      "gospelQuote": "Thầy nói thật cho các con biết, một người trong các con sẽ nộp Thầy"
+    },
     "lent_6_wed_I": {},
-    "lent_6_wed_II": {},
+    "lent_6_wed_II": {
+      "name": "Thứ Tư Tuần Thánh",
+      "first": "Is 50,4-9a",
+      "firstQuote": "Tôi đã đưa lưng cho kẻ đánh tôi, đã đưa má cho kẻ giật râu, tôi đã không che mặt giấu mày, tránh những lời nhạo cười và những người phỉ nhổ tôi",
+      "psalm": "Tv 68,8-10.21bcd-22.31 và 33-34",
+      "gospel": "Mt 26,14-25",
+      "gospelQuote": "Con Người sẽ ra đi như đã chép về Người, nhưng khốn cho kẻ nộp Con Người, thà kẻ đó đừng sinh ra thì hơn"
+    },
     "lent_6_thu_I": {},
-    "lent_6_thu_II": {},
+    "lent_6_thu_II": {
+      "name": "Thánh Lễ Tiệc Ly - Chúa Giêsu Lập Bí Tích Thánh Thể",
+      "first": "Xh 12,1-8.11-14",
+      "firstQuote": "Máu bôi trên nhà các ngươi ở, sẽ là dấu hiệu; và khi thấy máu, Ta sẽ đi qua mà tha cho các ngươi",
+      "psalm": "Tv 115,12-13.15-16bc.17-18",
+      "second": "1Cr 11,23-26",
+      "secondQuote": "Mỗi khi anh em ăn bánh và uống chén này, anh em loan truyền việc Chúa chịu chết, cho tới khi Chúa lại đến",
+      "gospel": "Ga 13,1-15",
+      "gospelQuote": "Nếu Ta là Chúa và là Thầy mà còn rửa chân cho các con, thì các con cũng phải rửa chân cho nhau"
+    },
     "lent_6_fri_I": {},
-    "lent_6_fri_II": {},
+    "lent_6_fri_II": {
+      "name": "Tưởng Niệm Cuộc Thương Khó Chúa Giêsu",
+      "first": "Is 52,13-53,12",
+      "firstQuote": "Người lãnh lấy hình phạt cho chúng ta được bình an, và bởi thương tích Người mà chúng ta được chữa lành",
+      "psalm": "Tv 30,2 và 6.12-13.15-16.17 và 25",
+      "second": "Dt 4,14-16;5,7-9",
+      "secondQuote": "Dầu là Con Thiên Chúa, Người đã học vâng phục do những đau khổ Người chịu, và khi hoàn tất, Người đã trở nên căn nguyên ơn cứu độ đời đời cho tất cả những kẻ tùng phục Người.",
+      "gospel": "Ga 18,1-19,42",
+      "gospelQuote": "Bài Thương Khó Ðức Giêsu Kitô, Chúa chúng ta, theo Thánh Gioan"
+    },
     "lent_6_sat_I": {},
-    "lent_6_sat_II": {},
+    "lent_6_sat_II": {
+      "name": "Lễ Vọng Phục Sinh",
+      "first": "St 1,1-2,2",
+      "firstQuote": "",
+      "second": "St 22,1-18",
+      "secondQuote": "",
+      "third": "Xh 14,15-15,1a",
+      "thirdQuote": "",
+      "psalm": "",
+      "fourth": "Is 54,5-14",
+      "fourthQuote": "",
+      "fifth": "Is 55,1-11",
+      "fifthQuote": "",
+      "sixth": "Br 3,9-15.32-4,4",
+      "sixthQuote": "",
+      "seventh": "Ed 36,16-17a.18-28",
+      "seventhQuote": "",
+      "eighth": "Rm 6,3-11",
+      "eighthQuote": "",
+      "psalm": "",
+      "gospel": "Mt 28,1-10",
+      "gospelQuote": ""
+    },
 
-    "palm_sunday_A": {},
-    "palm_sunday_B": {},
-    "palm_sunday_C": {},
-
-    "easter_sunday_A": {},
+    "easter_sunday_A": {
+      "name": "Chúa Nhật Phục Sinh - Năm A",
+      "first": "Cv 10,34a.37-43",
+      "firstQuote": "",
+      "second": "Cl 3,1-4",
+      "secondQuote": "",
+      "gospel": "Ga 20,1-9",
+      "gospelQuote": ""
+    },
     "easter_sunday_B": {},
     "easter_sunday_C": {},
     "easter_2_sun_A": {},
@@ -378,7 +496,7 @@
       "firstQuote": "Lạy Chúa, xin hãy nói, vì tôi tớ Chúa đang nghe.",
       "psalm": "Tv 39,2 và 5.7-8a.8b-9.10",
       "gospel": "Mc 1,29-39",
-      "gospelQuote": "Đức Giê-su chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật, và trừ nhiều quỷ, nhưng không cho quỷ nói, vì chúng biết Người là ai."
+      "gospelQuote": "Đức Giêsu chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật, và trừ nhiều quỷ, nhưng không cho quỷ nói, vì chúng biết Người là ai."
     },
     "ordinary_1_thu_I": {},
     "ordinary_1_thu_II": {
@@ -394,7 +512,7 @@
       "firstQuote": "Các ngươi sẽ ca thán vì nhà vua, nhưng Chúa sẽ không nhậm lời các ngươi, vì các ngươi đã xin ban cho các ngươi một nhà vua.",
       "psalm": "Tv 88,16-17.18-19",
       "gospel": "Mc 2,1-12",
-      "gospelQuote": "Thấy họ có lòng tin như vậy, Đức Giê-su bảo người bại liệt: “Này con, con đã được tha tội rồi.”"
+      "gospelQuote": "Thấy họ có lòng tin như vậy, Đức Giêsu bảo người bại liệt: “Này con, con đã được tha tội rồi.”"
     },
     "ordinary_1_sat_I": {},
     "ordinary_1_sat_II": {
@@ -410,7 +528,7 @@
       "firstQuote": "Ta đặt ngươi làm ánh sáng muôn dân để ngươi đem ơn cứu độ của Ta đến tận cùng cõi đất.",
       "psalm": "Tv 39,2 và 4ab.7-8a.8b-9.10 (Đ. x. c.8a và c.9a)",
       "second": "1Cr 1,1-3",
-      "secondQuote": "Xin Thiên Chúa là Cha chúng ta, và xin Chúa Giê-su ban cho anh em ân sủng và bình an.",
+      "secondQuote": "Xin Thiên Chúa là Cha chúng ta, và xin Chúa Giêsu ban cho anh em ân sủng và bình an.",
       "gospel": "Ga 1,29-34",
       "gospelQuote": "Đây là Chiên Thiên Chúa, Đấng xoá bỏ tội trần gian."
     },
@@ -446,7 +564,7 @@
       "firstQuote": "Thân phụ tôi là Saolê định giết anh.",
       "psalm": "Tv 55,2-3.9-10ab.10c-11.12-13",
       "gospel": "Mc 3,7-12",
-      "gospelQuote": "Còn các thần ô uế, hễ thấy Đức Giê-su, thì sấp mình dưới chân Người và kêu lên: “Ông là Con Thiên Chúa!”"
+      "gospelQuote": "Còn các thần ô uế, hễ thấy Đức Giêsu, thì sấp mình dưới chân Người và kêu lên: “Ông là Con Thiên Chúa!”"
     },
     "ordinary_2_fri_I": {},
     "ordinary_2_fri_II": {
@@ -472,7 +590,7 @@
       "second": "1Cr 1,10-13.17",
       "secondQuote": "Tất cả anh em hãy nhất trí với nhau trong lời ăn tiếng nói.",
       "gospel": "Mt 4,12-23",
-      "gospelQuote": "Đức Giê-su đến ở Ca-phác-na-um, để ứng nghiệm lời ngôn sứ I-sai-a."
+      "gospelQuote": "Đức Giêsu đến ở Ca-phác-na-um, để ứng nghiệm lời ngôn sứ I-sai-a."
     },
     "ordinary_3_sun_B": {},
     "ordinary_3_sun_C": {},
