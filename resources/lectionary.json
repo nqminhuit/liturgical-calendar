@@ -184,21 +184,65 @@
       "gospelQuote": "Em con đã chết nay sống lại, đã mất nay lại tìm thấy"
     },
 
-    "lent_3_sun_A": {},
+    "lent_3_sun_A": {
+      "first": "Xh 17,3-7",
+      "firstQuote": "Xin cho chúng tôi nước để chúng tôi uống",
+      "psalm": "Tv 94, 1-2. 6-7. 8-9",
+      "second": "Rm 5,1-2.5-8",
+      "secondQuote": "Lòng mến Chúa đổ xuống lòng chúng ta, nhờ Thánh Thần là Ðấng đã được ban cho chúng ta",
+      "gospel": "Ga 4,5-42",
+      "gospelQuote": "Ai uống nước giếng này sẽ còn khát, nhưng ai uống nước Ta sẽ cho thì không bao giờ còn khát nữa, vì nước Ta cho ai thì nơi người ấy sẽ trở thành mạch nước vọt đến sự sống đời đời"
+    },
     "lent_3_sun_B": {},
     "lent_3_sun_C": {},
     "lent_3_mon_I": {},
-    "lent_3_mon_II": {},
+    "lent_3_mon_II": {
+      "first": "2V 5,1-15a",
+      "firstQuote": "Có nhiều người phong cùi trong Ít-ra-en, nhưng không có một người nào trong bọn họ được chữa lành, mà chỉ có Na-a-man, người Sy-ri-a",
+      "psalm": "Tv 41,2.3, và Tv 42,3.4",
+      "gospel": "Lc 4,24-30",
+      "gospelQuote": "Chẳng có một tiên tri nào được tiếp đón tử tế ở quê hương mình"
+    },
     "lent_3_tue_I": {},
-    "lent_3_tue_II": {},
+    "lent_3_tue_II": {
+      "first": "Đn 3,25.34-43",
+      "firstQuote": "Với tâm hồn sám hối và với tinh thần khiêm tốn, chúng con xin Chúa chấp nhận",
+      "psalm": "Tv 24,4bc-5ab.6-7bc.8-9",
+      "gospel": "Mt 18,21-35",
+      "gospelQuote": "Thầy không bảo con phải tha đến bảy lần, nhưng đến bảy mươi lần bảy"
+    },
     "lent_3_wed_I": {},
-    "lent_3_wed_II": {},
+    "lent_3_wed_II": {
+      "first": "Đnl 4,1.5-9",
+      "firstQuote": "Các ngươi hãy tuân giữ các giới răn và đem thực hành bằng việc làm",
+      "psalm": "Tv 147,12-13.15-16.19-20",
+      "gospel": "Mt 5,17-19",
+      "gospelQuote": "Thầy không đến để huỷ bỏ, nhưng để kiện toàn"
+    },
     "lent_3_thu_I": {},
-    "lent_3_thu_II": {},
+    "lent_3_thu_II": {
+      "first": "Gr 7,23-28",
+      "firstQuote": "Này là dân không chịu nghe lời Chúa là Thiên Chúa của họ",
+      "psalm": "Tv 94,1-2.6-7.8-9",
+      "gospel": "Lc 11,14-23",
+      "gospelQuote": "Nhưng nếu Ta nhờ ngón tay Thiên Chúa mà trừ quỷ, ắt là nước Thiên Chúa đã đến giữa các ngươi rồi"
+    },
     "lent_3_fri_I": {},
-    "lent_3_fri_II": {},
+    "lent_3_fri_II": {
+      "first": "Hs 14,2-10",
+      "firstQuote": "Chúng tôi sẽ không còn nói rằng: Thần minh chúng tôi là sản phẩm do tay chúng tôi làm ra",
+      "psalm": "Tv 80,6c-8a.8bc-9.10-11ab.14 và 17",
+      "gospel": "Mc 12,28b-34",
+      "gospelQuote": "Thiên Chúa, Chúa chúng ta, là Chúa duy nhất, và ngươi hãy yêu mến Thiên Chúa ngươi hết lòng, hết linh hồn, hết trí khôn và hết sức ngươi"
+    },
     "lent_3_sat_I": {},
-    "lent_3_sat_II": {},
+    "lent_3_sat_II": {
+      "first": "Hs 6,1-6",
+      "firstQuote": "Ta muốn tình yêu, chớ không muốn hy lễ",
+      "psalm": "Tv 50,3-4.18-19.20-21ab",
+      "gospel": "Lc 18,9-14",
+      "gospelQuote": "Người thu thuế ra về được khỏi tội, còn người biệt phái kia thì không"
+    },
 
     "lent_4_sun_A": {},
     "lent_4_sun_B": {},
