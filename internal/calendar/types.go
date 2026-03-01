@@ -37,5 +37,8 @@ func (d DayInfo) lectionaryKey() string {
 	if d.Weekday == "sun" {
 		return fmt.Sprintf("%s_%d_sun_%s", d.Season, d.WeekOfSeason, d.SundayCycle)
 	}
+	if d.WeekdayCycle == "" {
+		return fmt.Sprintf("%s_%d_%s", d.Season, d.WeekOfSeason, d.Weekday)
+	}
 	return fmt.Sprintf("%s_%d_%s_%s", d.Season, d.WeekOfSeason, d.Weekday, d.WeekdayCycle)
 }

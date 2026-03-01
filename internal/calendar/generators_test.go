@@ -23,8 +23,8 @@ func TestGenerateYear(t *testing.T) {
 	if day.SundayCycle != "B" {
 		t.Errorf("2024-01-01 sunday cycle = %s, want B", day.SundayCycle)
 	}
-	if day.WeekdayCycle != "II" {
-		t.Errorf("2024-01-01 weekday cycle = %s, want II", day.WeekdayCycle)
+	if day.WeekdayCycle != "" {
+		t.Errorf("2024-01-01 weekday cycle = %s, want ''", day.WeekdayCycle)
 	}
 	if day.Weekday != "mon" {
 		t.Errorf("2024-01-01 weekday = %s, want mon", day.Weekday)

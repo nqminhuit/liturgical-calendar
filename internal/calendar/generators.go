@@ -25,12 +25,16 @@ func GenerateYear(year int) map[string]DayInfo {
 		key := d.Format("2006-01-02")
 		weekday := strings.ToLower(d.Weekday().String()[:3])
 
-		result[key] = DayInfo{
-			Season:       season,
-			SundayCycle:  sundayCycle(d),
-			WeekdayCycle: weekdayCycle(year),
-			Weekday:      weekday,
+		dayInfo := DayInfo{
+			Season:      season,
+			SundayCycle: sundayCycle(d),
+			Weekday:     weekday,
 		}
+		// only set weekday cycle for ordinary season
+		if season == SeasonOrdinary {
+			dayInfo.WeekdayCycle = weekdayCycle(year)
+		}
+		result[key] = dayInfo
 	}
 
 	return result

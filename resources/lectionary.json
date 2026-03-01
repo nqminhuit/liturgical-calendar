@@ -7,10 +7,8 @@
     "advent_1_sun_A": {},
     "advent_1_sun_B": {},
     "advent_1_sun_C": {},
-    "advent_1_mon_I": {},
-    "advent_1_mon_II": {},
-    "advent_1_tue_I": {},
-    "advent_1_tue_II": {},
+    "advent_1_mon": {},
+    "advent_1_tue": {},
     "advent_2_sun_A": {},
     "advent_2_sun_B": {},
     "advent_2_sun_C": {},
@@ -33,7 +31,8 @@
     "baptism_B": {},
     "baptism_C": {},
 
-    "lent_0_wed_II": {
+    "lent_0_wed": {
+      "name": "Thứ Tư Lễ Tro",
       "first": "Ge 2,12-18",
       "firstQuote": "Đừng xé áo, nhưng hãy xé lòng.",
       "psalm": "Tv 50,3-4.5-6a.12-13.14 và 17",
@@ -42,21 +41,21 @@
       "gospel": "Mt 6,1-6.16-18",
       "gospelQuote": "Cha của anh, Đấng thấu suốt những gì kín đáo, sẽ trả lại cho anh."
     },
-    "lent_0_thu_II": {
+    "lent_0_thu": {
       "first": "Ðnl 30,15-20",
       "firstQuote": "Hôm nay tôi đề nghị với anh em về sự chúc lành và sự chúc dữ",
       "psalm": "Tv 1,1-2.3.4 và 6",
       "gospel": "Lc 9,22-25",
       "gospelQuote": "Ai muốn theo Ta, hãy bỏ mình, vác thập giá mình hằng ngày mà theo Ta."
     },
-    "lent_0_fri_II": {
+    "lent_0_fri": {
       "first": "Is 58,1-9a",
       "firstQuote": "Có phải đó là việc ăn chay mà Ta mong muốn không?",
       "psalm": "Tv 50,3-4.5-6a.18-19",
       "gospel": "Mt 9,14-15",
       "gospelQuote": "Khi tân lang ra đi, bấy giờ họ mới ăn chay."
     },
-    "lent_0_sat_II": {
+    "lent_0_sat": {
       "first": "Is 58,9b-14",
       "firstQuote": "Ngươi hãy ca tụng Chúa khi ngươi bỏ đường lối của ngươi.",
       "psalm": "Tv 85,1-2.3-4.5-6",
@@ -75,48 +74,42 @@
     },
     "lent_1_sun_B": {},
     "lent_1_sun_C": {},
-    "lent_1_mon_I": {},
-    "lent_1_mon_II": {
+    "lent_1_mon": {
       "first": "Lv 19,1-2.11-18",
       "firstQuote": "Các ngươi phải thánh thiện, vì Ta là Đấng Thánh",
       "psalm": "Tv 18B,8.9.10.15 (Đ. x. Ga 6,63c)",
       "gospel": "Mt 25,31-46",
       "gospelQuote": "Mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy."
     },
-    "lent_1_tue_I": {},
-    "lent_1_tue_II": {
+    "lent_1_tue": {
       "first": "Is 55,10-11",
       "firstQuote": "Lời Ta phán ra sẽ không trở về với Ta nếu chưa đạt kết quả.",
       "psalm": "Tv 33,4-5.6-7.16-17.18-19 (Đ. x. c.18b)",
       "gospel": "Mt 6,7-15",
       "gospelQuote": "Nếu anh em tha lỗi cho người ta, thì Cha anh em trên trời cũng sẽ tha thứ cho anh em."
     },
-    "lent_1_wed_I": {},
-    "lent_1_wed_II": {
+    "lent_1_wed": {
       "first": "Gn 3,1-10",
       "firstQuote": "Thiên Chúa thấy họ bỏ đường gian ác, Người hối tiếc về tai hoạ Người đã tuyên bố và đã không giáng xuống nữa.",
       "psalm": "Tv 50,3-4.12-13.18-19 (Đ. x. c.19b)",
       "gospel": "Lc 11,29-32",
       "gospelQuote": "Thế hệ gian ác này sẽ không được thấy dấu lạ nào, ngoài dấu lạ ông Giô-na."
     },
-    "lent_1_thu_I": {},
-    "lent_1_thu_II": {
+    "lent_1_thu": {
       "first": "Et 4,17k-17m.17r-17t",
       "firstQuote": "Lạy Chúa, ngoài Ngài ra, con đâu còn ai nữa!",
       "psalm": "Tv 137,1-2a.2bc-3.7c-8 (Đ. x. c.3a)",
       "gospel": "Mt 7,7-12",
       "gospelQuote": "Anh em cứ xin thì sẽ được, cứ tìm thì sẽ thấy, cứ gõ cửa thì sẽ mở ra cho."
     },
-    "lent_1_fri_I": {},
-    "lent_1_fri_II": {
+    "lent_1_fri": {
       "first": "Ed 18,21-28",
       "firstQuote": "Chẳng lẽ Ta lại vui thích vì kẻ gian ác phải chết, Ta lại không muốn cho nó từ bỏ đường lối của nó mà được sống sao?",
       "psalm": "Tv 129,1-2.3-4.5-6a.6b-8 (Đ. x. c.3)",
       "gospel": "Mt 5,20-26",
       "gospelQuote": "Nếu anh em không ăn ở công chính hơn các kinh sư và người Pha-ri-sêu, thì sẽ chẳng được vào Nước Trời."
     },
-    "lent_1_sat_I": {},
-    "lent_1_sat_II": {
+    "lent_1_sat": {
       "first": "Đnl 26,16-19",
       "firstQuote": "Anh em sẽ là một dân thánh hiến cho Đức Chúa, Thiên Chúa của anh em. ",
       "psalm": "Tv 118,1-2.4-5.7-8 (Đ. x. c.1b)",
@@ -135,48 +128,42 @@
     },
     "lent_2_sun_B": {},
     "lent_2_sun_C": {},
-    "lent_2_mon_I": {},
-    "lent_2_mon_II": {
+    "lent_2_mon": {
       "first": "Đn 9,4b-10",
       "firstQuote": "Chúng con đã phạm tội, đã làm điều gian ác",
       "psalm": "Tv 78,8.9.11 và 13 (Đ. Tv 102,10a)",
       "gospel": "Lc 6,36-38",
       "gospelQuote": "Anh em hãy tha thứ, thì sẽ được Thiên Chúa thứ tha"
     },
-    "lent_2_tue_I": {},
-    "lent_2_tue_II": {
+    "lent_2_tue": {
       "first": "Is 1,10.16-20",
       "firstQuote": "Hãy tập làm điều thiện, tìm kiếm lẽ công bình",
       "psalm": "Tv 49,8-9.16bc-17.21 và 23 (Đ. x. c.23b)",
       "gospel": "Mt 23,1-12",
       "gospelQuote": "Ai tôn mình lên, sẽ bị hạ xuống ; còn ai hạ mình xuống, sẽ được tôn lên"
     },
-    "lent_2_wed_I": {},
-    "lent_2_wed_II": {
+    "lent_2_wed": {
       "first": "Gr 18,18-20",
       "firstQuote": "Hãy đến, và chúng ta hành hạ nó",
       "psalm": "Tv 30,5-6.14.15-16",
       "gospel": "Mt 20,17-28",
       "gospelQuote": "Họ đã lên án tử cho Người"
     },
-    "lent_2_thu_I": {},
-    "lent_2_thu_II": {
+    "lent_2_thu": {
       "first": "Gr 17,5-10",
       "firstQuote": "Khốn thay cho kẻ tin tưởng người đời; phúc thay cho người tin tưởng vào Thiên Chúa",
       "psalm": "Tv 1,1-2.3.4 và 6",
       "gospel": "Lc 16,19-31",
       "gospelQuote": "Con đã được sự lành, còn Ladarô gặp toàn sự khốn khổ"
     },
-    "lent_2_fri_I": {},
-    "lent_2_fri_II": {
+    "lent_2_fri": {
       "first": "St 37,3-4.12-13a.17b-28",
       "firstQuote": "Này thằng chiêm bao đến kia rồi, anh em hãy lại đây, chúng ta bắt giết nó",
       "psalm": "Tv 104,16-17.18-19.20-21",
       "gospel": "Mt 21,33-43.45-46",
       "gospelQuote": "Ðứa con thừa tự kia rồi, nào anh em, chúng ta hãy giết nó"
     },
-    "lent_2_sat_I": {},
-    "lent_2_sat_II": {
+    "lent_2_sat": {
       "first": "Mk 7,14-15.18-20",
       "firstQuote": "Chúa ném mọi tội lỗi chúng tôi xuống đáy biển",
       "psalm": "Tv 102,1-2.3-4.9-10.11-12",
@@ -195,48 +182,42 @@
     },
     "lent_3_sun_B": {},
     "lent_3_sun_C": {},
-    "lent_3_mon_I": {},
-    "lent_3_mon_II": {
+    "lent_3_mon": {
       "first": "2V 5,1-15a",
       "firstQuote": "Có nhiều người phong cùi trong Ít-ra-en, nhưng không có một người nào trong bọn họ được chữa lành, mà chỉ có Na-a-man, người Sy-ri-a",
       "psalm": "Tv 41,2.3, và Tv 42,3.4",
       "gospel": "Lc 4,24-30",
       "gospelQuote": "Chẳng có một tiên tri nào được tiếp đón tử tế ở quê hương mình"
     },
-    "lent_3_tue_I": {},
-    "lent_3_tue_II": {
+    "lent_3_tue": {
       "first": "Đn 3,25.34-43",
       "firstQuote": "Với tâm hồn sám hối và với tinh thần khiêm tốn, chúng con xin Chúa chấp nhận",
       "psalm": "Tv 24,4bc-5ab.6-7bc.8-9",
       "gospel": "Mt 18,21-35",
       "gospelQuote": "Thầy không bảo con phải tha đến bảy lần, nhưng đến bảy mươi lần bảy"
     },
-    "lent_3_wed_I": {},
-    "lent_3_wed_II": {
+    "lent_3_wed": {
       "first": "Đnl 4,1.5-9",
       "firstQuote": "Các ngươi hãy tuân giữ các giới răn và đem thực hành bằng việc làm",
       "psalm": "Tv 147,12-13.15-16.19-20",
       "gospel": "Mt 5,17-19",
       "gospelQuote": "Thầy không đến để huỷ bỏ, nhưng để kiện toàn"
     },
-    "lent_3_thu_I": {},
-    "lent_3_thu_II": {
+    "lent_3_thu": {
       "first": "Gr 7,23-28",
       "firstQuote": "Này là dân không chịu nghe lời Chúa là Thiên Chúa của họ",
       "psalm": "Tv 94,1-2.6-7.8-9",
       "gospel": "Lc 11,14-23",
       "gospelQuote": "Nhưng nếu Ta nhờ ngón tay Thiên Chúa mà trừ quỷ, ắt là nước Thiên Chúa đã đến giữa các ngươi rồi"
     },
-    "lent_3_fri_I": {},
-    "lent_3_fri_II": {
+    "lent_3_fri": {
       "first": "Hs 14,2-10",
       "firstQuote": "Chúng tôi sẽ không còn nói rằng: Thần minh chúng tôi là sản phẩm do tay chúng tôi làm ra",
       "psalm": "Tv 80,6c-8a.8bc-9.10-11ab.14 và 17",
       "gospel": "Mc 12,28b-34",
       "gospelQuote": "Thiên Chúa, Chúa chúng ta, là Chúa duy nhất, và ngươi hãy yêu mến Thiên Chúa ngươi hết lòng, hết linh hồn, hết trí khôn và hết sức ngươi"
     },
-    "lent_3_sat_I": {},
-    "lent_3_sat_II": {
+    "lent_3_sat": {
       "first": "Hs 6,1-6",
       "firstQuote": "Ta muốn tình yêu, chớ không muốn hy lễ",
       "psalm": "Tv 50,3-4.18-19.20-21ab",
@@ -255,48 +236,42 @@
     },
     "lent_4_sun_B": {},
     "lent_4_sun_C": {},
-    "lent_4_mon_I": {},
-    "lent_4_mon_II": {
+    "lent_4_mon": {
       "first": "Is 65,17-21",
       "firstQuote":"Thiên hạ sẽ không còn nghe tiếng khóc lóc và than van nữa",
       "psalm": "Tv 29,2 và 4.5-6.11e-12a và 13b",
       "gospel": "Ga 4,43-54",
       "gospelQuote": "Ông hãy về đi, con ông mạnh rồi"
     },
-    "lent_4_tue_I": {},
-    "lent_4_tue_II": {
+    "lent_4_tue": {
       "first": "Ed 47,1-9.12",
       "firstQuote":"Tôi đã thấy nước từ bên phải đền thờ chảy ra, và nước ấy chảy đến ai, thì tất cả đều được cứu rỗi",
       "psalm": "Tv 45,2-3.5-6.8-9",
       "gospel": "Ga 5,1-3a.5-16",
       "gospelQuote": "Anh hãy đứng dậy vác chõng mà về"
     },
-    "lent_4_wed_I": {},
-    "lent_4_wed_II": {
+    "lent_4_wed": {
       "first": "Is 49,8-15",
       "firstQuote":"Ta đã đặt ngươi nên giao ước của dân, để ngươi phục hưng xứ sở",
       "psalm": "Tv 144,8-9.13cd-14.17-18",
       "gospel": "Ga 5,17-30",
       "gospelQuote": "Chúa Cha cho người chết sống lại và làm cho họ sống thế nào, thì Chúa Con cũng vậy, Người làm cho ai sống là tuỳ ý Người"
     },
-    "lent_4_thu_I": {},
-    "lent_4_thu_II": {
+    "lent_4_thu": {
       "first": "Xh 32,7-14",
       "firstQuote":"Xin Chúa nguôi cơn giận và tỏ lòng khoan dung đối với tội lỗi dân Chúa",
       "psalm": "Tv 105,19-20.21-22.23",
       "gospel": "Ga 5,31-47",
       "gospelQuote": "Kẻ tố cáo các ngươi là Mô-sê, tức là người mà các ngươi vẫn tin tưởng"
     },
-    "lent_4_fri_I": {},
-    "lent_4_fri_II": {
+    "lent_4_fri": {
       "first": "Kn 2,1a.12-22",
       "firstQuote":"Chúng ta hãy kết án cho nó chết cách nhục nhã",
       "psalm": "Tv 33,17-18.19-20.21 và 23",
       "gospel": "Ga 7,1-2.10.25-30",
       "gospelQuote": "Ta không tự Ta mà đến, nhưng thực ra, có Ðấng đã sai Ta mà các ngươi không biết Ngài. Riêng Ta, Ta biết Ngài, vì Ta bởi Ngài, và chính Ngài đã sai Ta"
     },
-    "lent_4_sat_I": {},
-    "lent_4_sat_II": {
+    "lent_4_sat": {
       "first": "Gr 11,18-20",
       "firstQuote":"Con như chiên con hiền lành bị đem đi giết",
       "psalm": "Tv 7,2-3.9bc-10.11-12",
@@ -315,48 +290,42 @@
     },
     "lent_5_sun_B": {},
     "lent_5_sun_C": {},
-    "lent_5_mon_I": {},
-    "lent_5_mon_II": {
+    "lent_5_mon": {
       "first": "Đn 13,1-9.15-17.19-30.33-62",
       "firstQuote": "Ðây tôi phải chết, dù tôi không làm điều họ vu khống cho tôi",
       "psalm": "Tv 22,1-3a.3b-4.5.6",
       "gospel": "Ga 8,1-11",
       "gospelQuote": "Ta cũng thế, Ta không kết tội chị. Vậy chị hãy đi, và từ nay đừng phạm tội nữa"
     },
-    "lent_5_tue_I": {},
-    "lent_5_tue_II": {
+    "lent_5_tue": {
       "first": "Ds 21,4-9",
       "firstQuote": "Ngươi hãy đúc một con rắn đồng và treo nó lên làm dấu; kẻ nào bị rắn cắn mà nhìn lên rắn đồng, thì được sống",
       "psalm": "Tv 101,2-3.16-18.19-21",
       "gospel": "Ga 8,21-30",
       "gospelQuote": "Khi nào các ông đưa Con Người lên cao, các ông sẽ nhận biết Ta là ai"
     },
-    "lent_5_wed_I": {},
-    "lent_5_wed_II": {
+    "lent_5_wed": {
       "first": "Đn 3,14-20.91-92.95",
       "firstQuote": "Người đã sai thiên thần của Người đến giải thoát các tôi tớ Người",
       "psalm": "Ðn 3,52.53.54.55.56",
       "gospel": "Ga 8,31-42",
       "gospelQuote": "Nếu Chúa Con giải thoát các ngươi, thì các ngươi sẽ được tự do thực sự"
     },
-    "lent_5_thu_I": {},
-    "lent_5_thu_II": {
+    "lent_5_thu": {
       "first": "St 17,3-9",
       "firstQuote": "Thiên hạ sẽ không còn gọi ngươi là Áp-ram nữa, nhưng sẽ gọi là Áp-ra-ham, vì Ta đặt ngươi làm tổ phụ nhiều dân tộc",
       "psalm": "Tv 104,4-5.6-7.8-9",
       "gospel": "Ga 8,51-59",
       "gospelQuote": "Cha các ngươi là Áp-ra-ham đã hân hoan, vì nghĩ sẽ được thấy ngày của Ta"
     },
-    "lent_5_fri_I": {},
-    "lent_5_fri_II": {
+    "lent_5_fri": {
       "first": "Gr 20,10-13",
       "firstQuote": "Chúa ở cùng tôi như người lính chiến hùng dũng; vì thế, những kẻ bắt bớ tôi sẽ ngã quỵ và kiệt sức",
       "psalm": "Tv 17,2-3a.3bc-4.5-6.7",
       "gospel": "Ga 10,31-42",
       "gospelQuote": "Ta đã cho các ngươi thấy nhiều việc tốt lành bởi Cha Ta... Nếu Ta làm những việc đó, thì dầu các ngươi không muốn tin Ta, cũng hãy tin vào các việc đó, để các ngươi biết và tin rằng: Cha ở trong Ta, và Ta ở trong Cha"
     },
-    "lent_5_sat_I": {},
-    "lent_5_sat_II": {
+    "lent_5_sat": {
       "first": "Ed 37,21-28",
       "firstQuote": "Ta sẽ làm cho chúng trở nên dân tộc duy nhất",
       "psalm": "Gr 31,10.11-12ab.13",
@@ -376,8 +345,7 @@
     },
     "lent_6_sun_B": {},
     "lent_6_sun_C": {},
-    "lent_6_mon_I": {},
-    "lent_6_mon_II": {
+    "lent_6_mon": {
       "name": "Thứ Hai Tuần Thánh",
       "first": "Is 42,1-7",
       "firstQuote": "Người không bẻ gãy cây lau bị giập, không dập tắt tim đèn còn khói",
@@ -385,8 +353,7 @@
       "gospel": "Ga 12,1-11",
       "gospelQuote": "Hãy để mặc cô ấy làm công việc chỉ về ngày táng xác Thầy. Vì anh em sẽ có người nghèo luôn bên cạnh, còn Thầy, anh em sẽ không gặp Thầy mãi mãi đâu."
     },
-    "lent_6_tue_I": {},
-    "lent_6_tue_II": {
+    "lent_6_tue": {
       "name": "Thứ Ba Tuần Thánh",
       "first": "Is 49,1-6",
       "firstQuote": "Ta làm cho con nên ánh sáng các dân tộc, để con trở thành ơn cứu độ Ta ban cho đến tận bờ cõi trái đất",
@@ -394,8 +361,7 @@
       "gospel": "Ga 13,21-33.36-38",
       "gospelQuote": "Thầy nói thật cho các con biết, một người trong các con sẽ nộp Thầy"
     },
-    "lent_6_wed_I": {},
-    "lent_6_wed_II": {
+    "lent_6_wed": {
       "name": "Thứ Tư Tuần Thánh",
       "first": "Is 50,4-9a",
       "firstQuote": "Tôi đã đưa lưng cho kẻ đánh tôi, đã đưa má cho kẻ giật râu, tôi đã không che mặt giấu mày, tránh những lời nhạo cười và những người phỉ nhổ tôi",
@@ -403,8 +369,7 @@
       "gospel": "Mt 26,14-25",
       "gospelQuote": "Con Người sẽ ra đi như đã chép về Người, nhưng khốn cho kẻ nộp Con Người, thà kẻ đó đừng sinh ra thì hơn"
     },
-    "lent_6_thu_I": {},
-    "lent_6_thu_II": {
+    "lent_6_thu": {
       "name": "Thánh Lễ Tiệc Ly - Chúa Giêsu Lập Bí Tích Thánh Thể",
       "first": "Xh 12,1-8.11-14",
       "firstQuote": "Máu bôi trên nhà các ngươi ở, sẽ là dấu hiệu; và khi thấy máu, Ta sẽ đi qua mà tha cho các ngươi",
@@ -414,8 +379,7 @@
       "gospel": "Ga 13,1-15",
       "gospelQuote": "Nếu Ta là Chúa và là Thầy mà còn rửa chân cho các con, thì các con cũng phải rửa chân cho nhau"
     },
-    "lent_6_fri_I": {},
-    "lent_6_fri_II": {
+    "lent_6_fri": {
       "name": "Tưởng Niệm Cuộc Thương Khó Chúa Giêsu",
       "first": "Is 52,13-53,12",
       "firstQuote": "Người lãnh lấy hình phạt cho chúng ta được bình an, và bởi thương tích Người mà chúng ta được chữa lành",
@@ -425,8 +389,7 @@
       "gospel": "Ga 18,1-19,42",
       "gospelQuote": "Bài Thương Khó Ðức Giêsu Kitô, Chúa chúng ta, theo Thánh Gioan"
     },
-    "lent_6_sat_I": {},
-    "lent_6_sat_II": {
+    "lent_6_sat": {
       "name": "Lễ Vọng Phục Sinh",
       "first": "St 1,1-2,2",
       "firstQuote": "",
