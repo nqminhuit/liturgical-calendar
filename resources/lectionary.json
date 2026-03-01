@@ -244,21 +244,65 @@
       "gospelQuote": "Người thu thuế ra về được khỏi tội, còn người biệt phái kia thì không"
     },
 
-    "lent_4_sun_A": {},
+    "lent_4_sun_A": {
+      "first": "1Sm 16,1b.6-7.10-13a",
+      "firstQuote": "Ðavit được xức dầu làm vua Israel",
+      "psalm": "Tv 22,1-3a.3b-4.5.6",
+      "second": "Ep 5,8-14",
+      "secondQuote": "Từ trong cõi chết, ngươi hãy đứng lên và Chúa Kitô sẽ chiếu sáng trên ngươi",
+      "gospel": "Ga 9,1-41",
+      "gospelQuote": "Anh hãy đến hồ Silôe mà rửa"
+    },
     "lent_4_sun_B": {},
     "lent_4_sun_C": {},
     "lent_4_mon_I": {},
-    "lent_4_mon_II": {},
+    "lent_4_mon_II": {
+      "first": "Is 65,17-21",
+      "firstQuote":"Thiên hạ sẽ không còn nghe tiếng khóc lóc và than van nữa",
+      "psalm": "Tv 29,2 và 4.5-6.11e-12a và 13b",
+      "gospel": "Ga 4,43-54",
+      "gospelQuote": "Ông hãy về đi, con ông mạnh rồi"
+    },
     "lent_4_tue_I": {},
-    "lent_4_tue_II": {},
+    "lent_4_tue_II": {
+      "first": "Ed 47,1-9.12",
+      "firstQuote":"Tôi đã thấy nước từ bên phải đền thờ chảy ra, và nước ấy chảy đến ai, thì tất cả đều được cứu rỗi",
+      "psalm": "Tv 45,2-3.5-6.8-9",
+      "gospel": "Ga 5,1-3a.5-16",
+      "gospelQuote": "Anh hãy đứng dậy vác chõng mà về"
+    },
     "lent_4_wed_I": {},
-    "lent_4_wed_II": {},
+    "lent_4_wed_II": {
+      "first": "Is 49,8-15",
+      "firstQuote":"Ta đã đặt ngươi nên giao ước của dân, để ngươi phục hưng xứ sở",
+      "psalm": "Tv 144,8-9.13cd-14.17-18",
+      "gospel": "Ga 5,17-30",
+      "gospelQuote": "Chúa Cha cho người chết sống lại và làm cho họ sống thế nào, thì Chúa Con cũng vậy, Người làm cho ai sống là tuỳ ý Người"
+    },
     "lent_4_thu_I": {},
-    "lent_4_thu_II": {},
+    "lent_4_thu_II": {
+      "first": "Xh 32,7-14",
+      "firstQuote":"Xin Chúa nguôi cơn giận và tỏ lòng khoan dung đối với tội lỗi dân Chúa",
+      "psalm": "Tv 105,19-20.21-22.23",
+      "gospel": "Ga 5,31-47",
+      "gospelQuote": "Kẻ tố cáo các ngươi là Mô-sê, tức là người mà các ngươi vẫn tin tưởng"
+    },
     "lent_4_fri_I": {},
-    "lent_4_fri_II": {},
+    "lent_4_fri_II": {
+      "first": "Kn 2,1a.12-22",
+      "firstQuote":"Chúng ta hãy kết án cho nó chết cách nhục nhã",
+      "psalm": "Tv 33,17-18.19-20.21 và 23",
+      "gospel": "Ga 7,1-2.10.25-30",
+      "gospelQuote": "Ta không tự Ta mà đến, nhưng thực ra, có Ðấng đã sai Ta mà các ngươi không biết Ngài. Riêng Ta, Ta biết Ngài, vì Ta bởi Ngài, và chính Ngài đã sai Ta"
+    },
     "lent_4_sat_I": {},
-    "lent_4_sat_II": {},
+    "lent_4_sat_II": {
+      "first": "Gr 11,18-20",
+      "firstQuote":"Con như chiên con hiền lành bị đem đi giết",
+      "psalm": "Tv 7,2-3.9bc-10.11-12",
+      "gospel": "Ga 7,40-53",
+      "gospelQuote": "Chớ thì luật của chúng ta có lên án cho ai mà không nghe họ, hoặc không biết rõ họ làm gì không?"
+    },
 
     "lent_5_sun_A": {},
     "lent_5_sun_B": {},
