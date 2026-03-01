@@ -696,6 +696,7 @@
     "lectionary_key": "lent_5_sat_II"
   },
   "2026-03-29": {
+    "name": "Chúa Nhật Lễ Lá - Năm A",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -704,6 +705,7 @@
     "lectionary_key": "lent_6_sun_A"
   },
   "2026-03-30": {
+    "name": "Thứ Hai Tuần Thánh",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -712,6 +714,7 @@
     "lectionary_key": "lent_6_mon_II"
   },
   "2026-03-31": {
+    "name": "Thứ Ba Tuần Thánh",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -720,6 +723,7 @@
     "lectionary_key": "lent_6_tue_II"
   },
   "2026-04-01": {
+    "name": "Thứ Tư Tuần Thánh",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -728,6 +732,7 @@
     "lectionary_key": "lent_6_wed_II"
   },
   "2026-04-02": {
+    "name": "Thánh Lễ Tiệc Ly - Chúa Giêsu Lập Bí Tích Thánh Thể",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -736,6 +741,7 @@
     "lectionary_key": "lent_6_thu_II"
   },
   "2026-04-03": {
+    "name": "Tưởng Niệm Cuộc Thương Khó Chúa Giêsu",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -744,6 +750,7 @@
     "lectionary_key": "lent_6_fri_II"
   },
   "2026-04-04": {
+    "name": "Lễ Vọng Phục Sinh",
     "season": "lent",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
@@ -752,6 +759,7 @@
     "lectionary_key": "lent_6_sat_II"
   },
   "2026-04-05": {
+    "name": "Chúa Nhật Phục Sinh - Năm A",
     "season": "easter",
     "sunday_cycle": "A",
     "weekday_cycle": "II",
