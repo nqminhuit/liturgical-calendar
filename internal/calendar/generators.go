@@ -222,7 +222,7 @@ func WeekPass(filename string) {
 	if err := os.WriteFile(filename, out, 0644); err != nil {
 		panic(err)
 	}
-	fmt.Print(filename)
+	fmt.Println(filename)
 }
 
 // another pass to set the name of special Masses, e.g. Christmas, Ash Wednesday, Easter Sunday,
@@ -293,5 +293,5 @@ func NameMassPass(filename string) {
 	if err := os.WriteFile(filename, out, 0644); err != nil {
 		panic(err)
 	}
-	fmt.Print(filename)
+	fmt.Println(filename)
 }
