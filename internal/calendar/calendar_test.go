@@ -135,6 +135,28 @@ func TestSundayCycle(t *testing.T) {
 	}
 }
 
+func TestLectionaryKey(t *testing.T) {
+	tests := []struct {
+		day      DayInfo
+		expected string
+	}{
+		{DayInfo{Season: SeasonEaster, WeekOfSeason: 1, Weekday: "sun", SundayCycle: "A"}, "easter_sunday_A"},
+		{DayInfo{Season: SeasonEaster, WeekOfSeason: 1, Weekday: "sun", SundayCycle: "B"}, "easter_sunday_B"},
+		{DayInfo{Season: SeasonEaster, WeekOfSeason: 1, Weekday: "sun", SundayCycle: "C"}, "easter_sunday_C"},
+		{DayInfo{Season: SeasonEaster, WeekOfSeason: 2, Weekday: "sun", SundayCycle: "A"}, "easter_2_sun_A"},
+		{DayInfo{Season: SeasonOrdinary, WeekOfSeason: 1, Weekday: "mon", WeekdayCycle: "I"}, "ordinary_1_mon_I"},
+		{DayInfo{Season: SeasonLent, WeekOfSeason: 1, Weekday: "mon", WeekdayCycle: ""}, "lent_1_mon"},
+		{DayInfo{Season: SeasonOrdinary, WeekOfSeason: 1, Weekday: "sun", SundayCycle: "A"}, "ordinary_1_sun_A"},
+	}
+
+	for _, tt := range tests {
+		got := tt.day.lectionaryKey()
+		if got != tt.expected {
+			t.Errorf("lectionaryKey(%+v) = %q, want %q", tt.day, got, tt.expected)
+		}
+	}
+}
+
 func TestWeekdayCycle(t *testing.T) {
 	tests := []struct {
 		year     int
