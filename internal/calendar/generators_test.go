@@ -31,6 +31,34 @@ func TestGenerateYear(t *testing.T) {
 	}
 }
 
+func TestGenerateYear2023(t *testing.T) {
+	cal := GenerateYear(2023)
+	if len(cal) != 365 {
+		t.Errorf("GenerateYear(2023) length = %d, want 365 (non-leap year)", len(cal))
+	}
+
+	// 2023-01-01 is in Christmas season (previous Dec 25 through Baptism of Lord)
+	day, ok := cal["2023-01-01"]
+	if !ok {
+		t.Fatal("2023-01-01 not found")
+	}
+	if day.Season != SeasonChristmas {
+		t.Errorf("2023-01-01 season = %s, want %s", day.Season, SeasonChristmas)
+	}
+	if day.SundayCycle != "A" {
+		t.Errorf("2023-01-01 sunday cycle = %s, want A", day.SundayCycle)
+	}
+
+	// Oct 2, 2023 is ordinary time (well after Pentecost)
+	day, ok = cal["2023-10-02"]
+	if !ok {
+		t.Fatal("2023-10-02 not found")
+	}
+	if day.Season != SeasonOrdinary {
+		t.Errorf("2023-10-02 season = %s, want %s", day.Season, SeasonOrdinary)
+	}
+}
+
 func TestWeekPass(t *testing.T) {
 	calendar := GenerateYear(2025)
 	data, err := json.Marshal(calendar)
