@@ -18,7 +18,8 @@ func main() {
 	if err != nil {
 		panic("Invalid year: " + yearStr)
 	}
-	cal := calendar.GenerateYear(year)
+
+	cal := calendar.GenerateCalendar(year, "resources")
 
 	b, err := json.MarshalIndent(cal, "", "  ")
 	if err != nil {
@@ -28,6 +29,5 @@ func main() {
 	if err := os.WriteFile(filename, b, 0644); err != nil {
 		panic(err)
 	}
-	calendar.WeekPass(filename)
-	calendar.NameMassPass(filename, "resources")
+	fmt.Println(filename)
 }

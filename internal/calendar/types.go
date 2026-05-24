@@ -25,6 +25,7 @@ type DayInfo struct {
 	Weekday      string `json:"weekday"`
 	WeekOfSeason int    `json:"week_of_season"`
 	Lectionary   string `json:"lectionary_key"`
+	Name         string `json:"name,omitempty"`
 }
 
 func init() {

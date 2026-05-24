@@ -151,6 +151,48 @@ func lectionaryPass(calendar map[string]DayInfo) {
 	}
 }
 
+func loadLectionary(resourceDir string) map[string]map[string]any {
+	raw, err := os.ReadFile(resourceDir + "/lectionary.json")
+	if err != nil {
+		panic(err)
+	}
+	var lec struct {
+		Readings map[string]map[string]any `json:"readings"`
+	}
+	if err := json.Unmarshal(raw, &lec); err != nil {
+		panic(err)
+	}
+	return lec.Readings
+}
+
+func applyNames(calendar map[string]DayInfo, readings map[string]map[string]any) {
+	for date, day := range calendar {
+		if day.Name != "" {
+			continue
+		}
+		if day.Lectionary == "" {
+			continue
+		}
+		if rd, ok := readings[day.Lectionary]; ok && rd != nil {
+			if nI, ok := rd["name"]; ok {
+				if nStr, ok2 := nI.(string); ok2 && nStr != "" {
+					day.Name = nStr
+					calendar[date] = day
+				}
+			}
+		}
+	}
+}
+
+func GenerateCalendar(year int, resourceDir string) map[string]DayInfo {
+	cal := GenerateYear(year)
+	applyWeekNumbers(cal)
+	lectionaryPass(cal)
+	readings := loadLectionary(resourceDir)
+	applyNames(cal, readings)
+	return cal
+}
+
 func WeekPass(filename string) {
 	raw, err := os.ReadFile(filename)
 	if err != nil {
