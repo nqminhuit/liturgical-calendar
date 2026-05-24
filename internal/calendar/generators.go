@@ -227,7 +227,7 @@ func WeekPass(filename string) {
 
 // another pass to set the name of special Masses, e.g. Christmas, Ash Wednesday, Easter Sunday,
 // Holy Monday, Holy Tuesday, Holy Wednesday, Holy Thursday, Good Friday, Pentecost Sunday, etc.
-func NameMassPass(filename string) {
+func NameMassPass(filename, resourceDir string) {
 	raw, err := os.ReadFile(filename)
 	if err != nil {
 		panic(err)
@@ -240,7 +240,7 @@ func NameMassPass(filename string) {
 	}
 
 	// load lectionary resource which contains names for many lectionary keys
-	lecRaw, err := os.ReadFile("resources/lectionary.json")
+	lecRaw, err := os.ReadFile(resourceDir + "/lectionary.json")
 	if err != nil {
 		panic(err)
 	}

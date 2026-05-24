@@ -29,5 +29,5 @@ func main() {
 		panic(err)
 	}
 	calendar.WeekPass(filename)
-	calendar.NameMassPass(filename)
+	calendar.NameMassPass(filename, "resources")
 }

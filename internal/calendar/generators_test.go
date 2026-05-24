@@ -475,15 +475,8 @@ func TestNameMassPass(t *testing.T) {
 		t.Fatalf("write calendar: %v", err)
 	}
 
-	// chdir to temp dir so NameMassPass finds resources/lectionary.json by relative path
-	orig, _ := os.Getwd()
-	if err := os.Chdir(td); err != nil {
-		t.Fatalf("chdir: %v", err)
-	}
-	defer func() { _ = os.Chdir(orig) }()
-
 	// run
-	NameMassPass(calFile)
+	NameMassPass(calFile, resdir)
 
 	// read back
 	b, err := os.ReadFile(calFile)
