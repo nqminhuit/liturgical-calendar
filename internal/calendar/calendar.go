@@ -35,14 +35,10 @@ func epiphany(year int) time.Time {
 
 func baptismOfLord(year int) time.Time {
 	e := epiphany(year)
-	nextSunday := e.AddDate(0, 0, (7-int(e.Weekday()))%7)
-	if nextSunday.Equal(e) {
-		nextSunday = e.AddDate(0, 0, 7)
-	}
-	if e.Day() >= 7 { // edge case: if Epiphany Jan 7 or 8 → Monday
+	if e.Day() >= 7 {
 		return e.AddDate(0, 0, 1)
 	}
-	return nextSunday
+	return e.AddDate(0, 0, 7)
 }
 
 // Liturgical year starts at Advent
