@@ -3,6 +3,7 @@ package calendar
 import (
 	"fmt"
 	"time"
+	_ "time/tzdata"
 )
 
 type Season string
