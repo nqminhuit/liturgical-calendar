@@ -1,4 +1,5 @@
 {
+  "_note": "This file is a manual reference document for Vietnamese-specific feast overlays (Tết, etc.) that differ from the standard liturgical calendar. Not automatically merged by the generator. Review and reconcile date/name conflicts before programmatic use.",
   "2026-02-17": {
     "name": "Mồng Một Tết Bính Ngọ: Cầu Bình An Cho Năm Mới",
     "lectionary_key": "tet1_A"
